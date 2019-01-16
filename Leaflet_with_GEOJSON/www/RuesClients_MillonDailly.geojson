@@ -5,10 +5,142 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.319538,48.870303 ]
+    },
+    "properties": {
+    "RUE":" Aguesseau (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34774,48.850836 ]
+    },
+    "properties": {
+    "RUE":" Anglais (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Anjou-au-Marais (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.321737,48.871623 ]
+    },
+    "properties": {
+    "RUE":" Anjou (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.136669,48.535927 ]
+    },
+    "properties": {
+    "RUE":" Arcis (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3338,48.865273 ]
+    },
+    "properties": {
+    "RUE":" Argenteuil (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349925,48.860335 ]
+    },
+    "properties": {
+    "RUE":" Aubry-le-Boucher (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342109,48.854737 ]
+    },
+    "properties": {
+    "RUE":" Augustins (quai des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3509563999999727,48.8634101 ]
     },
     "properties": {
-    "RUE":" Avignon (rue d') (vers actuel Boulevard de Sébastopol)",
+    "RUE":" Avignon (rue d') (vers actuel Boulevard de S�bastopol)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325135,48.855402 ]
+    },
+    "properties": {
+    "RUE":" Bac (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341945,48.860918 ]
+    },
+    "properties": {
+    "RUE":" Bailleul (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.360809,48.85887 ]
+    },
+    "properties": {
+    "RUE":" Barbette (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355315,48.855335 ]
+    },
+    "properties": {
+    "RUE":" Barres (rue des) ",
     "COMMUNE":"Paris"
     }
   },
@@ -27,10 +159,153 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.355511,48.856218 ]
+    },
+    "properties": {
+    "RUE":" Baudoyer (place) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354569,48.863307 ]
+    },
+    "properties": {
+    "RUE":" Beaubourg (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338506,48.866089 ]
+    },
+    "properties": {
+    "RUE":" Beaujolais (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363695,48.853089 ]
+    },
+    "properties": {
+    "RUE":" Beautreillis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.377464,48.841379 ]
+    },
+    "properties": {
+    "RUE":" Bercy (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356487,48.859298 ]
+    },
+    "properties": {
+    "RUE":" Blancs-Manteaux (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.359396400000037,48.86874410000001 ]
     },
     "properties": {
-    "RUE":" Bondy (rue de) (actuelle rue René Boulanger)",
+    "RUE":" Bondy (rue de) (actuelle rue Ren� Boulanger)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.335681,48.853618 ]
+    },
+    "properties": {
+    "RUE":" Boucherie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355069,48.853036 ]
+    },
+    "properties": {
+    "RUE":" Bourbon (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355069,48.853036 ]
+    },
+    "properties": {
+    "RUE":" Bourbon (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344681,48.859439 ]
+    },
+    "properties": {
+    "RUE":" Bourdonnais (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356179,48.857288 ]
+    },
+    "properties": {
+    "RUE":" Bourg-Tibourg (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356693,48.861011 ]
+    },
+    "properties": {
+    "RUE":" Braque (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362453,48.86305 ]
+    },
+    "properties": {
+    "RUE":" Bretagne (rue de) ",
     "COMMUNE":"Paris"
     }
   },
@@ -41,7 +316,161 @@
        "coordinates":  [ 2.3476631999999427,48.8545034 ]
     },
     "properties": {
-    "RUE":" Calandre (rue de la) (vers actuelle rue de la Cité)",
+    "RUE":" Calandre (rue de la) (vers actuelle rue de la Cit�)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329365,48.868996 ]
+    },
+    "properties": {
+    "RUE":" Capucines (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.88897,48.071023 ]
+    },
+    "properties": {
+    "RUE":" Chaillot (hameau) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.297236,48.853802 ]
+    },
+    "properties": {
+    "RUE":" Champfleury (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.373359,48.851287 ]
+    },
+    "properties": {
+    "RUE":" Chantier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351366,48.853713 ]
+    },
+    "properties": {
+    "RUE":" Chantre (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351366,48.853713 ]
+    },
+    "properties": {
+    "RUE":" Chantres (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35516,48.863623 ]
+    },
+    "properties": {
+    "RUE":" Chapon (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.384312,48.843958 ]
+    },
+    "properties": {
+    "RUE":" Charenton (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.383557,48.854348 ]
+    },
+    "properties": {
+    "RUE":" Charonne (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.81355,48.654027 ]
+    },
+    "properties": {
+    "RUE":" Chaume (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.324135,48.848328 ]
+    },
+    "properties": {
+    "RUE":" Cherche-Midi (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339884,48.854537 ]
+    },
+    "properties": {
+    "RUE":" Christine (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331264,48.851593 ]
+    },
+    "properties": {
+    "RUE":" Colombier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351065,48.857414 ]
+    },
+    "properties": {
+    "RUE":" Coutellerie (rue de la) ",
     "COMMUNE":"Paris"
     }
   },
@@ -60,10 +489,186 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.340163,48.863996 ]
+    },
+    "properties": {
+    "RUE":" Croix-des-Petits-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339302,48.854829 ]
+    },
+    "properties": {
+    "RUE":" Dauphine (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341428,48.862742 ]
+    },
+    "properties": {
+    "RUE":" Deux-Ecus (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356535,48.85175 ]
+    },
+    "properties": {
+    "RUE":" Deux-Ponts (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348546,48.851201 ]
+    },
+    "properties": {
+    "RUE":" Deux-Portes (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348546,48.851201 ]
+    },
+    "properties": {
+    "RUE":" Douze-Portes (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3423625000000357,48.8604178 ]
     },
     "properties": {
     "RUE":" Escouffes (rue des) (actuelle rue de Rivoli)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346468,48.844762 ]
+    },
+    "properties": {
+    "RUE":" Estrapade (rue de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344498,48.858339 ]
+    },
+    "properties": {
+    "RUE":" Fabrique-de-Saint-Germain-l'Auxerrois (ruelle de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342042,48.874168 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Montmartre (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.379757,48.850598 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Saint-Antoine (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355602,48.875943 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Saint-Denis (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.360673,48.876172 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Saint-Martin (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347457,48.860301 ]
+    },
+    "properties": {
+    "RUE":" Ferronnerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365707,48.862601 ]
+    },
+    "properties": {
+    "RUE":" Filles-du-Calvaire (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365015,48.856929 ]
+    },
+    "properties": {
+    "RUE":" Foin (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.695822,45.195449 ]
+    },
+    "properties": {
+    "RUE":" Fontaines (rue des) ",
     "COMMUNE":"Paris"
     }
   },
@@ -82,10 +687,208 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.359171,48.854954 ]
+    },
+    "properties": {
+    "RUE":" Fourcy (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.360897,48.857551 ]
+    },
+    "properties": {
+    "RUE":" Francs-Bourgeois (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319338,48.851257 ]
+    },
+    "properties": {
+    "RUE":" Froidmanteau (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347011,48.851674 ]
+    },
+    "properties": {
+    "RUE":" Galande (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356515,48.854797 ]
+    },
+    "properties": {
+    "RUE":" Geoffroy-l'Asnier (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349162,48.856667 ]
+    },
+    "properties": {
+    "RUE":" Gesvres (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.373359,48.851287 ]
+    },
+    "properties": {
+    "RUE":" Grand-Chantier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342109,48.854737 ]
+    },
+    "properties": {
+    "RUE":" Grands-Augustins (quai des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355909,48.864019 ]
+    },
+    "properties": {
+    "RUE":" Gravilliers (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316314,48.857751 ]
+    },
+    "properties": {
+    "RUE":" Grenelle (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349025,48.865374 ]
+    },
+    "properties": {
+    "RUE":" Greneta (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302723,48.85708 ]
+    },
+    "properties": {
+    "RUE":" Gros-Chenet (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33441,48.851837 ]
+    },
+    "properties": {
+    "RUE":" Guisarde (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342647,48.855962 ]
+    },
+    "properties": {
+    "RUE":" Harlay (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344363,48.852259 ]
+    },
+    "properties": {
+    "RUE":" Harpe (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342827,48.85694 ]
+    },
+    "properties": {
+    "RUE":" Horloge (quai de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306538,48.563296 ]
+    },
+    "properties": {
+    "RUE":" Hurepoix (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3423625000000357,48.8604178 ]
     },
     "properties": {
-    "RUE":" Jean Pain-Mollet (rue) (vers actuelle rue de Rivoli)",
+    "RUE":"Jean Pain-Mollet (rue) (vers actuelle rue de Rivoli)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365872,48.85194 ]
+    },
+    "properties": {
+    "RUE":" Joaillerie (rue de la) ",
     "COMMUNE":"Paris"
     }
   },
@@ -107,7 +910,117 @@
        "coordinates":  [ 2.3476631999999427,48.8545034 ]
     },
     "properties": {
-    "RUE":" Lanterne (rue de la) (actuelle rue de la Cité)",
+    "RUE":" Lanterne (rue de la) (actuelle rue de la Cit�)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325341,48.852899 ]
+    },
+    "properties": {
+    "RUE":" La-Planche (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.729236,48.992981 ]
+    },
+    "properties": {
+    "RUE":" Limace (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346507,48.860283 ]
+    },
+    "properties": {
+    "RUE":" Lingerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332962,48.869375 ]
+    },
+    "properties": {
+    "RUE":" Louis-Le-Grand (place) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338755,48.830872 ]
+    },
+    "properties": {
+    "RUE":" Lourcine (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349835,48.869799 ]
+    },
+    "properties": {
+    "RUE":" Lune (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356138,48.8647 ]
+    },
+    "properties": {
+    "RUE":" Maire (rue au) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334682,48.85788 ]
+    },
+    "properties": {
+    "RUE":" Malaquais (quai) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361536,48.890963 ]
+    },
+    "properties": {
+    "RUE":" Marche (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.337399,48.870905 ]
+    },
+    "properties": {
+    "RUE":" Marivaux (grande rue) ",
     "COMMUNE":"Paris"
     }
   },
@@ -126,6 +1039,127 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.347029,48.86411 ]
+    },
+    "properties": {
+    "RUE":" Mauconseil (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.337839,48.854914 ]
+    },
+    "properties": {
+    "RUE":" Mazarine (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.27967,48.844071 ]
+    },
+    "properties": {
+    "RUE":" Mercier (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359079,48.867985 ]
+    },
+    "properties": {
+    "RUE":" Meslay (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355855,48.862262 ]
+    },
+    "properties": {
+    "RUE":" Michel-Le-Comte (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365842,48.857287 ]
+    },
+    "properties": {
+    "RUE":" Minimes (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.320897,48.890524 ]
+    },
+    "properties": {
+    "RUE":" Moines (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343725,48.868058 ]
+    },
+    "properties": {
+    "RUE":" Montmartre (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354983,48.86305 ]
+    },
+    "properties": {
+    "RUE":" Montmorency (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347019,48.865388 ]
+    },
+    "properties": {
+    "RUE":" Montorgueil (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342193,48.856182 ]
+    },
+    "properties": {
+    "RUE":" Morfondus (quai des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3552610000000413,48.85534269999999 ]
     },
     "properties": {
@@ -137,10 +1171,109 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.349646,48.842184 ]
+    },
+    "properties": {
+    "RUE":" Mouffetard (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33511,48.866725 ]
+    },
+    "properties": {
+    "RUE":" Moulins (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.398647,48.854721 ]
+    },
+    "properties": {
+    "RUE":" Neuve-de-Luxembourg (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.329418300000043,48.8689074 ]
     },
     "properties": {
-    "RUE":" Neuve-des-Capucines (rue) (actuelle rue des Capucines)",
+    "RUE":" Neuve-des-Capucines (rue) (actuelle rue des Capucines) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.389329,48.853975 ]
+    },
+    "properties": {
+    "RUE":" Neuve-des-Petits-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.389329,48.853975 ]
+    },
+    "properties": {
+    "RUE":" Neuve-du-Luxembourg (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348557,48.869767 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Guillemin (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345748,48.862829 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Saint-Eustache (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352674,48.859448 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Saint-Merri (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363125,48.853794 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Saint-Paul (rue) ",
     "COMMUNE":"Paris"
     }
   },
@@ -151,7 +1284,150 @@
        "coordinates":  [ 2.3324192999999696,48.8656049 ]
     },
     "properties": {
-    "RUE":" Neuve-Saint-Roch (rue) (actuelle rue Saint-Roch)",
+    "RUE":" Neuve-Saint-Roch (rue) (actuelle rue Saint-Roch) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349641,48.869663 ]
+    },
+    "properties": {
+    "RUE":" Notre-Dame-de-Bonne-Nouvelle (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331491,48.843012 ]
+    },
+    "properties": {
+    "RUE":" Notre-Dame-des-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341894,48.868262 ]
+    },
+    "properties": {
+    "RUE":" Notre-Dame-des-Victoires (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.399144,48.886324 ]
+    },
+    "properties": {
+    "RUE":" Noyers (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340245,48.861513 ]
+    },
+    "properties": {
+    "RUE":" Oratoire (rue de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342193,48.856182 ]
+    },
+    "properties": {
+    "RUE":" Ormes (quai des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307205,48.862275 ]
+    },
+    "properties": {
+    "RUE":" Orsay (quai d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338755,48.830872 ]
+    },
+    "properties": {
+    "RUE":" Oursine (rue de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351758,48.863168 ]
+    },
+    "properties": {
+    "RUE":" Ours (rue aux) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.359653,48.86274 ]
+    },
+    "properties": {
+    "RUE":" Pastourelle (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362293,48.858097 ]
+    },
+    "properties": {
+    "RUE":" Payenne (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339052,48.873851 ]
+    },
+    "properties": {
+    "RUE":" Pelletier (quai) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361441,48.859536 ]
+    },
+    "properties": {
+    "RUE":" Perle (rue de la) ",
     "COMMUNE":"Paris"
     }
   },
@@ -173,7 +1449,73 @@
        "coordinates":  [  2.334859,48.851315 ]
     },
     "properties": {
-    "RUE":" Petit-Lion (rue du) (actuelle partie de la rue Saint-Sulpice)",
+    "RUE":"Petit-Lion (rue du) (actuelle partie de la rue Saint-Sulpice)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325341,48.852899 ]
+    },
+    "properties": {
+    "RUE":" Planche (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.376672,48.858445 ]
+    },
+    "properties": {
+    "RUE":" Popincourt (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.115849,48.819654 ]
+    },
+    "properties": {
+    "RUE":" Porte-Saint-Antoine (boulevard de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349312,48.841108 ]
+    },
+    "properties": {
+    "RUE":" Postes (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.264759,48.315931 ]
+    },
+    "properties": {
+    "RUE":" Puits (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.350157,48.860585 ]
+    },
+    "properties": {
+    "RUE":" Quincampoix (rue) ",
     "COMMUNE":"Paris"
     }
   },
@@ -192,10 +1534,340 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.338943,48.869485 ]
+    },
+    "properties": {
+    "RUE":" Richelieu (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358057,48.856332 ]
+    },
+    "properties": {
+    "RUE":" Roi-de-Sicile (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35951,48.857185 ]
+    },
+    "properties": {
+    "RUE":" Rosiers (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.323204,48.867991 ]
+    },
+    "properties": {
+    "RUE":" Royale (place) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.323204,48.867991 ]
+    },
+    "properties": {
+    "RUE":" Royale (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363957,48.854326 ]
+    },
+    "properties": {
+    "RUE":" Saint-Antoine (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.350541,48.858318 ]
+    },
+    "properties": {
+    "RUE":" Saint-Bon (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.36581,48.860167 ]
+    },
+    "properties": {
+    "RUE":" Saint-Claude (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351137,48.866753 ]
+    },
+    "properties": {
+    "RUE":" Saint-Denis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.309844,48.859852 ]
+    },
+    "properties": {
+    "RUE":" Saint-Dominique (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336257,48.86799 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Anne (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353354,48.869027 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Apolline (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355962,48.860761 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Avoie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336486,48.898989 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Avoye (porte) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355828,48.858359 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Croix-de-la-Bretonnerie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.301467,48.880006 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Marguerite (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344498,48.858339 ]
+    },
+    "properties": {
+    "RUE":" Saint-Germain-l'Auxerrois (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331726,48.866046 ]
+    },
+    "properties": {
+    "RUE":" Saint-Hyacinthe (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342241,48.844609 ]
+    },
+    "properties": {
+    "RUE":" Saint-Jacques-du-Haut-Pas (ruelle) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342241,48.844609 ]
+    },
+    "properties": {
+    "RUE":" Saint-Jacques (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358047,48.875514 ]
+    },
+    "properties": {
+    "RUE":" Saint-Laurent (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.33325,48.87679 ]
+    },
+    "properties": {
+    "RUE":" Saint-Lazare (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis-au-Marais (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.403684,-21.275472 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.292959,48.879841 ]
+    },
+    "properties": {
+    "RUE":" Saint-Marcel (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340622,48.870451 ]
+    },
+    "properties": {
+    "RUE":" Saint-Marc (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353287,48.864637 ]
+    },
+    "properties": {
+    "RUE":" Saint-Martin (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352674,48.859448 ]
+    },
+    "properties": {
+    "RUE":" Saint-Merri (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3353366999999707,48.8639731 ]
     },
     "properties": {
-    "RUE":" Saint-Nicaise (rue) (vers actuelle Place André Malraux)",
+    "RUE":" Saint-Nicaise (rue) (vers actuelle Place Andr� Malraux)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.374372,48.85082 ]
+    },
+    "properties": {
+    "RUE":" Saint-Nicolas (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361774,48.853633 ]
+    },
+    "properties": {
+    "RUE":" Saint-Paul (rue) ",
     "COMMUNE":"Paris"
     }
   },
@@ -214,10 +1886,252 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.336685,48.851474 ]
+    },
+    "properties": {
+    "RUE":" Saint-Sulpice (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341883,48.862674 ]
+    },
+    "properties": {
+    "RUE":" Saint-Thomas-du-Louvre (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351156,48.848256 ]
+    },
+    "properties": {
+    "RUE":" Saint-Victor (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.313113,48.850356 ]
+    },
+    "properties": {
+    "RUE":" Salle-au-Comte (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336785,48.854758 ]
+    },
+    "properties": {
+    "RUE":" Seine (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345995,48.869248 ]
+    },
+    "properties": {
+    "RUE":" Sentier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345852,48.833431 ]
+    },
+    "properties": {
+    "RUE":" Tannerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.312626,48.87684 ]
+    },
+    "properties": {
+    "RUE":" Taranne (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358615,48.863675 ]
+    },
+    "properties": {
+    "RUE":" Temple (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363183,48.85991 ]
+    },
+    "properties": {
+    "RUE":" Thorigny (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.348099,48.86467 ]
+    },
+    "properties": {
+    "RUE":" Tiquetonne (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.297179,48.882268 ]
+    },
+    "properties": {
+    "RUE":" Tireboudin (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3423625000000357,48.8604178 ]
     },
     "properties": {
-    "RUE":" Tisseranderie (rue) (vers actuelle rue de Rivoli)",
+    "RUE":" Tisseranderie (rue) (aussi d�nomm�e rue de la Vieille-Oreille, rue de laTixeranderie) (vers actuelle rue de Rivoli)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3423625000000357,48.8604178 ]
+    },
+    "properties": {
+    "RUE":" Tixeranderie (rue de la) (aussi d�nomm�e rue de la Vieille-Oreille, rue Tisseranderie) (vers actuelle rue de Rivoli)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.367364,48.854848 ]
+    },
+    "properties": {
+    "RUE":" Tournelles (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.337318,48.850449 ]
+    },
+    "properties": {
+    "RUE":" Tournon (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.385162,48.858104 ]
+    },
+    "properties": {
+    "RUE":" Vannerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.321592,48.854494 ]
+    },
+    "properties": {
+    "RUE":" Varennes (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302416,48.839695 ]
+    },
+    "properties": {
+    "RUE":" Vaugirard (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.268365,48.847219 ]
+    },
+    "properties": {
+    "RUE":" Verderet (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329123,48.858037 ]
+    },
+    "properties": {
+    "RUE":" Verneuil (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352876,48.857972 ]
+    },
+    "properties": {
+    "RUE":" Verrerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340901,48.865449 ]
+    },
+    "properties": {
+    "RUE":" Victoires (place des) ",
     "COMMUNE":"Paris"
     }
   },
@@ -236,10 +2150,120 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.36149,48.860421 ]
+    },
+    "properties": {
+    "RUE":" Vieille-du-Temple (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.319538,48.870303 ]
+    },
+    "properties": {
+    "RUE":" Aguesseau (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Anjou-au-Marais (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3484703999999965,48.86283359999999 ]
     },
     "properties": {
     "RUE":" Ariane (rue d') (actuelle rue de la Petite-Truanderie)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.325135,48.855402 ]
+    },
+    "properties": {
+    "RUE":" Bac (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.36038,48.852341 ]
+    },
+    "properties": {
+    "RUE":" Balcons (quai des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35645,48.929151 ]
+    },
+    "properties": {
+    "RUE":" Basse-Porte-Saint-Denis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354569,48.863307 ]
+    },
+    "properties": {
+    "RUE":" Beaubourg (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361075,48.862818 ]
+    },
+    "properties": {
+    "RUE":" Beauce (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349775,48.869263 ]
+    },
+    "properties": {
+    "RUE":" Beauregard (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356487,48.859298 ]
+    },
+    "properties": {
+    "RUE":" Blancs-Manteaux (rue des) ",
     "COMMUNE":"Paris"
     }
   },
@@ -258,10 +2282,362 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.356179,48.857288 ]
+    },
+    "properties": {
+    "RUE":" Bourg-Tibourg (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356693,48.861011 ]
+    },
+    "properties": {
+    "RUE":" Braque (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329365,48.868996 ]
+    },
+    "properties": {
+    "RUE":" Capucines (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.329365,48.868996 ]
+    },
+    "properties": {
+    "RUE":" Capucins (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3353366999999707,48.8639731 ]
     },
     "properties": {
-    "RUE":" Carrousel (rue du) (vers actuelle Place André Malraux)",
+    "RUE":" Carrousel (rue du) (vers actuelle Place Andr� Malraux)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.327146,48.853005 ]
+    },
+    "properties": {
+    "RUE":" Chaise (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351366,48.853713 ]
+    },
+    "properties": {
+    "RUE":" Chantre (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.35516,48.863623 ]
+    },
+    "properties": {
+    "RUE":" Chapon (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.384312,48.843958 ]
+    },
+    "properties": {
+    "RUE":" Charenton (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.81355,48.654027 ]
+    },
+    "properties": {
+    "RUE":" Chaume (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331264,48.851593 ]
+    },
+    "properties": {
+    "RUE":" Colombier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.307002,48.873312 ]
+    },
+    "properties": {
+    "RUE":" Comtesse-d'Artois (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.306669,48.842219 ]
+    },
+    "properties": {
+    "RUE":" Copeau (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351065,48.857414 ]
+    },
+    "properties": {
+    "RUE":" Coutellerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362691,48.855545 ]
+    },
+    "properties": {
+    "RUE":" Couture-Sainte-Catherine (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340163,48.863996 ]
+    },
+    "properties": {
+    "RUE":" Croix-des-Petits-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362691,48.855545 ]
+    },
+    "properties": {
+    "RUE":" Culture-Sainte-Catherine (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.331916,48.838809 ]
+    },
+    "properties": {
+    "RUE":" Enfer (rue d') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.341715,48.878238 ]
+    },
+    "properties": {
+    "RUE":" Escullerie (impasse de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.37146,48.87021 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-du-Temple (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342042,48.874168 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Montmartre (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.379757,48.850598 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Saint-Antoine (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.360673,48.876172 ]
+    },
+    "properties": {
+    "RUE":" Faubourg-Saint-Martin (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347457,48.860301 ]
+    },
+    "properties": {
+    "RUE":" Ferronnerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353493,48.839006 ]
+    },
+    "properties": {
+    "RUE":" Fers (rue aux) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365034,48.819086 ]
+    },
+    "properties": {
+    "RUE":" Foin (port au) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365015,48.856929 ]
+    },
+    "properties": {
+    "RUE":" Foin (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347011,48.851674 ]
+    },
+    "properties": {
+    "RUE":" Galande (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.373359,48.851287 ]
+    },
+    "properties": {
+    "RUE":" Grand-Chantier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316314,48.857751 ]
+    },
+    "properties": {
+    "RUE":" Grenelle (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.293662,48.849097 ]
+    },
+    "properties": {
+    "RUE":" Grenelle (villa de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302723,48.85708 ]
+    },
+    "properties": {
+    "RUE":" Gros-Chenet (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345734,48.852935 ]
+    },
+    "properties": {
+    "RUE":" Huchette (rue de la) ",
     "COMMUNE":"Paris"
     }
   },
@@ -291,10 +2667,109 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.349611,48.859261 ]
+    },
+    "properties": {
+    "RUE":" Lombards (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.332962,48.869375 ]
+    },
+    "properties": {
+    "RUE":" Louis-Le-Grand (place) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334682,48.85788 ]
+    },
+    "properties": {
+    "RUE":" Malaquais (quai) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355855,48.862262 ]
+    },
+    "properties": {
+    "RUE":" Michel-Le-Comte (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.365842,48.857287 ]
+    },
+    "properties": {
+    "RUE":" Minimes (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343725,48.868058 ]
+    },
+    "properties": {
+    "RUE":" Montmartre (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.347019,48.865388 ]
+    },
+    "properties": {
+    "RUE":" Montorgueil (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3552610000000413,48.85534269999999 ]
     },
     "properties": {
     "RUE":" Mortellerie (rue de la) (vers actuelle rue des Barres)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.389329,48.853975 ]
+    },
+    "properties": {
+    "RUE":" Neuve-des-Petits-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.318429,48.860307 ]
+    },
+    "properties": {
+    "RUE":" Neuve-du-Palais (cour) ",
     "COMMUNE":"Paris"
     }
   },
@@ -313,6 +2788,28 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.345748,48.862829 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Saint-Eustache (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.374372,48.85082 ]
+    },
+    "properties": {
+    "RUE":" Neuve-Saint-Nicolas (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.349641,48.869663 ]
     },
     "properties": {
@@ -324,10 +2821,54 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.331491,48.843012 ]
+    },
+    "properties": {
+    "RUE":" Notre-Dame-des-Champs (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.399144,48.886324 ]
+    },
+    "properties": {
+    "RUE":" Noyers (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.383624,48.861418 ]
+    },
+    "properties": {
+    "RUE":" Omer-Talon (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351852,48.875095 ]
+    },
+    "properties": {
+    "RUE":" Paradis (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3470340999999735,48.8552146 ]
     },
     "properties": {
-    "RUE":" Pelleterie (rue de la) (vers actuelle rue Aubé)",
+    "RUE":" Pelleterie (rue de la) (vers actuelle rue Aub�) ",
     "COMMUNE":"Paris"
     }
   },
@@ -338,7 +2879,18 @@
        "coordinates":  [ 2.3691939000000275,48.852646 ]
     },
     "properties": {
-    "RUE":" Porte-Saint-Antoine (place de la) (vers actuelle Place de la Bastille) ",
+    "RUE":" Porte-Saint-Antoine (place de la) (vers actuelle Place de la Bastille)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.399357,48.853255 ]
+    },
+    "properties": {
+    "RUE":" Poules (rue des) ",
     "COMMUNE":"Paris"
     }
   },
@@ -357,10 +2909,241 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 2.39629,48.878159 ]
+    },
+    "properties": {
+    "RUE":" Pourtour-Saint-Gervais (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Puits-au-Marais (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338943,48.869485 ]
+    },
+    "properties": {
+    "RUE":" Richelieu (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.37821,48.85683 ]
+    },
+    "properties": {
+    "RUE":" Roquette (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.343779,48.860618 ]
+    },
+    "properties": {
+    "RUE":" Roule (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.351137,48.866753 ]
+    },
+    "properties": {
+    "RUE":" Saint-Denis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.309844,48.859852 ]
+    },
+    "properties": {
+    "RUE":" Saint-Dominique (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363687,48.859722 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Anastase (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355962,48.860761 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Avoie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355828,48.858359 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Croix-de-la-Bretonnerie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345456,48.86372 ]
+    },
+    "properties": {
+    "RUE":" Saint-Eustache (impasse) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.344498,48.858339 ]
+    },
+    "properties": {
+    "RUE":" Saint-Germain-l'Auxerrois (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 2.3333553999999594,48.8534769 ]
     },
     "properties": {
-    "RUE":" Saint-Germain (rue)  (actuelle partie de la rue Bonaparte. Actuelle rue Berzélius. Actuelle rue Saint-Blaise. Actuelle rue Saint-André-des-Arts. Actuelle rue de l'Ecole-de-Médecine) ",
+    "RUE":" Saint-Germain (rue)  (actuelle partie de la rue Bonaparte. Actuelle rue Berz�lius. Actuelle rue Saint-Blaise. Actuelle rue Saint-Andr�-des-Arts. Actuelle rue de l'Ecole-de-M�decine)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.39629,48.878159 ]
+    },
+    "properties": {
+    "RUE":" Saint-Gervais (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342241,48.844609 ]
+    },
+    "properties": {
+    "RUE":" Saint-Jacques-du-Haut-Pas (ruelle) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.342241,48.844609 ]
+    },
+    "properties": {
+    "RUE":" Saint-Jacques-la-Boucherie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346882,48.849508 ]
+    },
+    "properties": {
+    "RUE":" Saint-Jean-de-Beauvais (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis-au-Marais (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.403684,-21.275472 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.340622,48.870451 ]
+    },
+    "properties": {
+    "RUE":" Saint-Marc (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.353287,48.864637 ]
+    },
+    "properties": {
+    "RUE":" Saint-Martin (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352674,48.859448 ]
+    },
+    "properties": {
+    "RUE":" Saint-Merri (rue) ",
     "COMMUNE":"Paris"
     }
   },
@@ -371,7 +3154,216 @@
        "coordinates":  [ 2.3353366999999707,48.8639731 ]
     },
     "properties": {
-    "RUE":" Saint-Nicaise (rue) (vers actuelle Place André Malraux)",
+    "RUE":" Saint-Nicaise (rue) (vers actuelle Place Andr� Malraux)",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.345995,48.869248 ]
+    },
+    "properties": {
+    "RUE":" Sentier (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358615,48.863675 ]
+    },
+    "properties": {
+    "RUE":" Temple (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.363183,48.85991 ]
+    },
+    "properties": {
+    "RUE":" Thorigny (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.275371,48.867861 ]
+    },
+    "properties": {
+    "RUE":" Tixeranderie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.367364,48.854848 ]
+    },
+    "properties": {
+    "RUE":" Tournelles (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302955,48.831914 ]
+    },
+    "properties": {
+    "RUE":" Transnonnain (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.302416,48.839695 ]
+    },
+    "properties": {
+    "RUE":" Vaugirard (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.268365,48.847219 ]
+    },
+    "properties": {
+    "RUE":" Verderet (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352876,48.857972 ]
+    },
+    "properties": {
+    "RUE":" Verrerie (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.36149,48.860421 ]
+    },
+    "properties": {
+    "RUE":" Vieille-du-Temple (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.346468,48.844762 ]
+    },
+    "properties": {
+    "RUE":" Vieille-Estrapade (rue de la) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.34065,48.85427 ]
+    },
+    "properties": {
+    "RUE":" Vieux-Augustins (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.354569,48.863307 ]
+    },
+    "properties": {
+    "RUE":" Beaubourg (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356487,48.859298 ]
+    },
+    "properties": {
+    "RUE":" Blancs-Manteaux (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362453,48.86305 ]
+    },
+    "properties": {
+    "RUE":" Bretagne (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339302,48.854829 ]
+    },
+    "properties": {
+    "RUE":" Dauphin (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.334199,48.864024 ]
+    },
+    "properties": {
+    "RUE":" Echelle (rue de l') ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349308,48.864842 ]
+    },
+    "properties": {
+    "RUE":" Grand-Cerf (passage du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.316314,48.857751 ]
+    },
+    "properties": {
+    "RUE":" Grenelle (rue de) ",
     "COMMUNE":"Paris"
     }
   },
@@ -382,8 +3374,1471 @@
        "coordinates":  [ 2.3476631999999427,48.8545034 ]
     },
     "properties": {
-    "RUE":" Lanterne (rue de la) (actuelles parties de la place Louis-Lépine et de la rue de la Cité. Actuelle partie de la rue Pernelle)",
+    "RUE":" Lanterne (rue de la) (actuelles parties de la place Louis-L�pine et de la rue de la Cit�. Actuelle partie de la rue Pernelle)",
     "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.338755,48.830872 ]
+    },
+    "properties": {
+    "RUE":" Lourcine (rue de) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.339052,48.873851 ]
+    },
+    "properties": {
+    "RUE":" Pelletier (quai) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.323204,48.867991 ]
+    },
+    "properties": {
+    "RUE":" Royale (place) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.355828,48.858359 ]
+    },
+    "properties": {
+    "RUE":" Sainte-Croix-de-la-Bretonnerie (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361449,48.871721 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis-au-Marais (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.371276,48.874162 ]
+    },
+    "properties": {
+    "RUE":" Saint-Louis-du-Temple (passage) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.374372,48.85082 ]
+    },
+    "properties": {
+    "RUE":" Saint-Nicolas-du-Louvre (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.361774,48.853633 ]
+    },
+    "properties": {
+    "RUE":" Saint-Paul (rue) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.357901,48.86429 ]
+    },
+    "properties": {
+    "RUE":" Vertus (rue des) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.358615,48.863675 ]
+    },
+    "properties": {
+    "RUE":" Temple (rue du) ",
+    "COMMUNE":"Paris"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.615827,44.204139 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Agen (Lot-et-Garonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.141256,48.210303 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Aix-la-Chapelle (Allemagne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.168726,43.937745 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Albi (Tarn) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.652572,47.405748 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Amboise (Indre-et-Loire) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.547379,47.477945 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Angers (Maine-et-Loire) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.029298,49.306794 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Auberville (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.749432,49.776764 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Aumale (Seine-Maritime) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14,48 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Autriche "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.807592,43.947855 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Avignon (Vaucluse) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.781467,45.351215 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Barr (Bas-Rhin) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.631304,47.777599 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Beaugency (Loiret) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.322853,47.570076 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Blois (Loir-et-Cher) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.551595,44.864677 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Bordeaux (Gironde) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.588229,50.720367 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Boulogne-sur-Mer (Pas-de-Calais) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.056155,46.582827 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Bourbon-l'Archambault (Allier) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.336769,49.189061 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Caen (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.860794,50.942836 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Calais (Pas-de-Calais) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.501937,45.357069 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Champagnac-le-Vieux (Haute-Loire) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.512748,48.811572 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Champigny-sur-Marne (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.40313,48.827382 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Charenton-le-Pont (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.487566,48.451155 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Chartres (Eure-et-Loir) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.986041,48.85374 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Chavenay (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.267901,48.800885 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Clamart (Hauts-de-Seine) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.412158,49.378083 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Clermont (Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.093951,48.996699 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Conflans-Sainte-Honorine (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.464978,48.603828 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Corbeil-Essonnes (Essonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.474043,48.439512 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Courances (Essonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.067462,43.709309 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Dax (Landes) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.640688,48.546039 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Dieppe (Seine-Maritime) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.10309,47.912668 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Donnery (Loiret) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.337579,48.442306 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Echenay (Haute-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.404891,49.027808 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Enghien-les-Bains (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.193548,48.891899 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Falaise (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.107209,46.254993 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Ferney-Voltaire (Ain) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.710489,48.411144 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Fontainebleau (Seine-et-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.349163,48.816922 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Gentilly (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.642348,47.682576 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Gien (Loiret) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.875438,43.626182 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Gimont (Gers) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.520821,43.272904 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Grimaud (Var) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.333073,48.985703 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Groslay (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.051212,49.655409 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Guiscard (Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.072035,48.769893 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Guyancourt (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.232896,49.418893 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Honfleur (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.102213,49.31706 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Isigny-sur-Mer (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.41257,47.975849 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Joigny (Yonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.17036,48.763253 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Jouy-en-Josas (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.573024,47.728931 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" La Chartre-sur-le-Loir (Sarthe) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.710454,48.879663 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Lagny-sur-Marne (Seine-et-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.776889,49.477798 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" La Mailleraye-sur-Seine (Seine-Maritime) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.190971,47.999348 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Le Mans (Sarthe) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.398071,49.051663 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Le Mesnil-Aubry (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.259507,45.828345 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Limoges (Haute-Vienne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.1666666666667,38.716666666667 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Lisbonne (Portugal) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.22421,49.145244 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Lisieux (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.427057,49.115527 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Luzarches (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.127442,47.1255 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Maastricht (Pays-Bas) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.78022,49.155434 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Magny-en-Vexin (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.867953,48.894054 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Mareil-sur-Mauldre (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.388379,46.762235 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Marigny-Brizay (Vienne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.093493,48.866295 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Marly-le-Roi (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.10512,49.101963 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Metz (Moselle) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.164059,47.475882 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Missillac (Loire-Atlantique) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.336055,48.964381 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Montmagny (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.457373,-20.883006 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Montreuil (Seine-Saint-Denis) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.127134,46.336083 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Montrevel-en-Bresse (Ain) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.182559,48.705047 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Nancy (Meurthe-et-Moselle) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.605729,47.151146 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Nantes (Loire-Atlantique) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.99905,43.190727 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Narbonne (Aude) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.268828,48.895904 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Neuilly-sur-Seine (Hauts-de-Seine) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.474659,48.830973 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Nogent-sur-Marne (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.257914,48.76778 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Phalsbourg (Moselle) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.362379,48.953979 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Pierrefitte-sur-Seine (Seine-Saint-Denis) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.10186,49.049333 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Pontoise (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.550602,48.795473 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Provins (Seine-et-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.589102,48.016161 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Remiremont (Vosges) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.686741,48.111158 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Rennes (Ille-et-Vilaine) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.094583,46.060731 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Roanne (Loire) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.516643,49.003958 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Roissy-en-France (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.725771,48.515828 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Romilly-sur-Seine (Aube) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.089815,49.432072 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Rouen (Seine-Maritime) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2012,48.883852 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Cloud (Hauts-de-Seine) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.356076,48.912367 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Denis (Seine-Saint-Denis) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.070586,47.640663 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Fargeau (Yonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.090248,48.895949 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Germain-en-Laye (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.430765,43.677127 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Gilles (Gard) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.28481,49.847362 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Saint-Quentin (Aisne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.275367,48.199536 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Sens (Yonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.674026,48.95682 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Soindres (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.191801,46.534056 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Souvigny (Allier) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.746735,48.58353 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Strasbourg (Bas-Rhin) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.578107,48.965636 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Suisse "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9166,48.850433 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Thiverval-Grignon (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.06894,49.705773 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Thoix (Somme) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.699259,47.404782 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Tours (Indre-et-Loire) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.572507,48.960387 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Tremblay-en-France (Seine-Saint-Denis) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.034505,49.227509 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Varennes-en-Argonne (Meuse) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.783012,47.905383 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Varennes (Yonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.134053,48.804537 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Versailles (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.330556,48.664585 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Villemoisson-sur-Orge (Essonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.710628,44.412543 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Villeneuve-sur-Lot (Lot-et-Garonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.447998,48.808788 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Vincennes (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.887855,48.840766 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Vire (Calvados) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.433723,47.681154 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Vouvray-sur-Loir (Sarthe) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.532668,49.693314 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Ypreville-Biville (Seine-Maritime) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.512748,48.811572 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Champigny-sur-Marne (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.40313,48.827382 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Charenton-le-Pont (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.384765,49.712271 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Chirmont (Somme) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.078607,50.370351 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Douai (Nord) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.775674,49.279816 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Gisors (Eure) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.376444,48.688221 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Juvisy-sur-Orge (Essonne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.398071,49.051663 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Le Mesnil-Aubry (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.240803,48.820288 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Meudon (Hauts-de-Seine) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.598745,48.956353 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Mitry-Mory (Seine-et-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.320909,48.989206 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Montmorency (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.936824,48.927961 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Morainvilliers (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.554037,48.86919 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Neuilly-sur-Marne (Seine-Saint-Denis) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.220355,48.706043 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Nonant-le-Pin (Orne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.461743,49.362757 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Toutainville (Eure) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.134053,48.804537 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Versailles (Yvelines) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.927415,49.077023 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Vigny (Val-d'Oise) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.447998,48.808788 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Vincennes (Val-de-Marne) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.72117,50.244779 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Wailly (Pas-de-Calais) "
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.986041,48.85374 ]
+    },
+    "properties": {
+    "RUE":"",
+    "COMMUNE":" Chavenay (Yvelines) "
     }
   }
 ]

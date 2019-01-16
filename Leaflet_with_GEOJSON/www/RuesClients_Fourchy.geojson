@@ -34,7 +34,7 @@
        "coordinates":  [ 2.347178,48.867877 ]
     },
     "properties": {
-    "RUE":" Aboukir (rue d') ",
+    "RUE":"Aboukir (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -60,7 +60,7 @@
        "coordinates":  [ 2.319538,48.870303 ]
     },
     "properties": {
-    "RUE":" Aguesseau (rue d') ",
+    "RUE":"Aguesseau (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -86,7 +86,7 @@
        "coordinates":  [ 2.305257,48.878819 ]
     },
     "properties": {
-    "RUE":" Alfred-de-Vigny (rue) ",
+    "RUE":"Alfred-de-Vigny (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -112,7 +112,7 @@
        "coordinates":  [ 2.339094,48.8816 ]
     },
     "properties": {
-    "RUE":" Alfred-Stevens (rue) ",
+    "RUE":"Alfred-Stevens (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -135,7 +135,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.382414,48.885868 ]
+       "coordinates":  [ 2.38,48.89 ]
     },
     "properties": {
     "RUE":"Allemagne (rue d’) (actuelle partie de l’avenue Jean-Jaurès) ",
@@ -164,7 +164,7 @@
        "coordinates":  [ 2.301871,48.860731 ]
     },
     "properties": {
-    "RUE":" Alma (avenue de l') ",
+    "RUE":"Alma (avenue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -190,7 +190,7 @@
        "coordinates":  [ 2.385654,48.87819 ]
     },
     "properties": {
-    "RUE":" Alouettes (rue des) ",
+    "RUE":"Alouettes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -216,7 +216,7 @@
        "coordinates":  [ 2.302389,48.885778 ]
     },
     "properties": {
-    "RUE":" Alphonse-de-Neuville (rue) ",
+    "RUE":"Alphonse-de-Neuville (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -242,7 +242,7 @@
        "coordinates":  [ 2.389622,48.86585 ]
     },
     "properties": {
-    "RUE":" Amandiers (rue des) ",
+    "RUE":"Amandiers (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -268,7 +268,7 @@
        "coordinates":  [ 2.338824,48.871017 ]
     },
     "properties": {
-    "RUE":" Amboise (rue d') ",
+    "RUE":"Amboise (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -294,7 +294,7 @@
        "coordinates":  [ 2.367843,48.860536 ]
     },
     "properties": {
-    "RUE":" Amelot (rue) ",
+    "RUE":"Amelot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -320,7 +320,7 @@
        "coordinates":  [ 2.327075,48.879731 ]
     },
     "properties": {
-    "RUE":" Amsterdam (rue d') ",
+    "RUE":"Amsterdam (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -346,7 +346,7 @@
        "coordinates":  [ 2.321737,48.871623 ]
     },
     "properties": {
-    "RUE":" Anjou (rue d') ",
+    "RUE":"Anjou (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -372,7 +372,7 @@
        "coordinates":  [ 2.333185,48.868877 ]
     },
     "properties": {
-    "RUE":" Antin (avenue d') ",
+    "RUE":"Antin (avenue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -398,7 +398,7 @@
        "coordinates":  [ 2.333185,48.868877 ]
     },
     "properties": {
-    "RUE":" Antin (rue d') ",
+    "RUE":"Antin (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -424,7 +424,7 @@
        "coordinates":  [ 2.362852,48.881841 ]
     },
     "properties": {
-    "RUE":" Aqueduc (rue de l') ",
+    "RUE":"Aqueduc (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -450,7 +450,7 @@
        "coordinates":  [ 2.346645,48.835342 ]
     },
     "properties": {
-    "RUE":" Arago (boulevard) ",
+    "RUE":"Arago (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -476,7 +476,7 @@
        "coordinates":  [ 2.345536,48.835377 ]
     },
     "properties": {
-    "RUE":" Arago (rue) ",
+    "RUE":"Arago (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -502,7 +502,7 @@
        "coordinates":  [ 2.34981,48.854229 ]
     },
     "properties": {
-    "RUE":" Arcole (rue d') ",
+    "RUE":"Arcole (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -528,7 +528,7 @@
        "coordinates":  [ 2.3338,48.865273 ]
     },
     "properties": {
-    "RUE":" Argenteuil (rue d') ",
+    "RUE":"Argenteuil (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -554,7 +554,7 @@
        "coordinates":  [ 2.307002,48.873312 ]
     },
     "properties": {
-    "RUE":" Artois (rue d') ",
+    "RUE":"Artois (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -580,7 +580,7 @@
        "coordinates":  [ 2.33167,48.845748 ]
     },
     "properties": {
-    "RUE":" Assas (rue d') ",
+    "RUE":"Assas (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -606,7 +606,7 @@
        "coordinates":  [ 2.319453,48.87319 ]
     },
     "properties": {
-    "RUE":" Astorg (rue d') ",
+    "RUE":"Astorg (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -632,7 +632,7 @@
        "coordinates":  [ 2.329068,48.872494 ]
     },
     "properties": {
-    "RUE":" Auber (rue) ",
+    "RUE":"Auber (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -658,7 +658,7 @@
        "coordinates":  [ 2.33593,48.878254 ]
     },
     "properties": {
-    "RUE":" Aumale (rue d') ",
+    "RUE":"Aumale (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -684,7 +684,7 @@
        "coordinates":  [ 2.264925,48.847766 ]
     },
     "properties": {
-    "RUE":" Auteuil (rue d') ",
+    "RUE":"Auteuil (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -710,7 +710,7 @@
        "coordinates":  [ 2.320095,48.851639 ]
     },
     "properties": {
-    "RUE":" Babylone (rue de) ",
+    "RUE":"Babylone (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -736,7 +736,7 @@
        "coordinates":  [ 2.325135,48.855402 ]
     },
     "properties": {
-    "RUE":" Bac (rue du) ",
+    "RUE":"Bac (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -759,10 +759,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.388137,42.548357 ]
+       "coordinates":  [ 2.34,48.89 ]
     },
     "properties": {
-    "RUE":" Bains (rue des) ",
+    "RUE":"Bains (rue des) (actuellement partie de la rue du Baigneur)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -788,7 +788,7 @@
        "coordinates":  [ 2.300816,48.873951 ]
     },
     "properties": {
-    "RUE":" Balzac (rue) ",
+    "RUE":"Balzac (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -814,7 +814,7 @@
        "coordinates":  [ 2.340613,48.867533 ]
     },
     "properties": {
-    "RUE":" Banque (rue de la) ",
+    "RUE":"Banque (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -840,7 +840,7 @@
        "coordinates":  [ 2.333528,48.842151 ]
     },
     "properties": {
-    "RUE":" Bara (rue) ",
+    "RUE":"Bara (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -866,7 +866,7 @@
        "coordinates":  [ 2.360809,48.85887 ]
     },
     "properties": {
-    "RUE":" Barbette (rue) ",
+    "RUE":"Barbette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -892,7 +892,7 @@
        "coordinates":  [ 2.297037,48.868681 ]
     },
     "properties": {
-    "RUE":" Bassano (rue de) ",
+    "RUE":"Bassano (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -918,7 +918,7 @@
        "coordinates":  [ 2.32123,48.882435 ]
     },
     "properties": {
-    "RUE":" Batignolles (boulevard des) ",
+    "RUE":"Batignolles (boulevard des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -944,7 +944,7 @@
        "coordinates":  [ 2.370463,48.860581 ]
     },
     "properties": {
-    "RUE":" Baudin (rue) ",
+    "RUE":"Baudin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -970,7 +970,7 @@
        "coordinates":  [ 2.338506,48.866089 ]
     },
     "properties": {
-    "RUE":" Beaujolais (rue de) ",
+    "RUE":"Beaujolais (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -996,7 +996,7 @@
        "coordinates":  [ 2.368412,48.857255 ]
     },
     "properties": {
-    "RUE":" Beaumarchais (boulevard) ",
+    "RUE":"Beaumarchais (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1022,7 +1022,7 @@
        "coordinates":  [ 2.349775,48.869263 ]
     },
     "properties": {
-    "RUE":" Beauregard (rue) ",
+    "RUE":"Beauregard (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1048,7 +1048,7 @@
        "coordinates":  [ 2.316559,48.871265 ]
     },
     "properties": {
-    "RUE":" Beauvau (place) ",
+    "RUE":"Beauvau (place) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1074,7 +1074,7 @@
        "coordinates":  [ 2.348455,48.884208 ]
     },
     "properties": {
-    "RUE":" Belhomme (rue) ",
+    "RUE":"Belhomme (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1100,7 +1100,7 @@
        "coordinates":  [ 2.385496,48.830587 ]
     },
     "properties": {
-    "RUE":" Bercy (quai de) ",
+    "RUE":"Bercy (quai de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1126,7 +1126,7 @@
        "coordinates":  [ 2.377464,48.841379 ]
     },
     "properties": {
-    "RUE":" Bercy (rue de) ",
+    "RUE":"Bercy (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1152,7 +1152,7 @@
        "coordinates":  [ 2.305578,48.873281 ]
     },
     "properties": {
-    "RUE":" Berri (rue de) ",
+    "RUE":"Berri (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1178,7 +1178,7 @@
        "coordinates":  [ 2.345676,48.839069 ]
     },
     "properties": {
-    "RUE":" Berthollet (rue) ",
+    "RUE":"Berthollet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1204,7 +1204,7 @@
        "coordinates":  [ 2.316838,48.876666 ]
     },
     "properties": {
-    "RUE":" Bienfaisance (rue de la) ",
+    "RUE":"Bienfaisance (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1230,7 +1230,7 @@
        "coordinates":  [ 2.326134,48.884401 ]
     },
     "properties": {
-    "RUE":" Biot (rue) ",
+    "RUE":"Biot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1256,7 +1256,7 @@
        "coordinates":  [ 2.348664,48.844445 ]
     },
     "properties": {
-    "RUE":" Blainville (rue) ",
+    "RUE":"Blainville (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1282,7 +1282,7 @@
        "coordinates":  [ 2.331508,48.880513 ]
     },
     "properties": {
-    "RUE":" Blanche (rue) ",
+    "RUE":"Blanche (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1308,7 +1308,7 @@
        "coordinates":  [ 2.300973,48.841006 ]
     },
     "properties": {
-    "RUE":" Blomet (rue) ",
+    "RUE":"Blomet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1334,7 +1334,7 @@
        "coordinates":  [ 2.286885,48.875133 ]
     },
     "properties": {
-    "RUE":" Bois-de-Boulogne (avenue du) ",
+    "RUE":"Bois-de-Boulogne (avenue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1360,7 +1360,7 @@
        "coordinates":  [ 2.321922,48.86907 ]
     },
     "properties": {
-    "RUE":" Boissy-d'Anglas (rue) ",
+    "RUE":"Boissy-d'Anglas (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1386,7 +1386,7 @@
        "coordinates":  [ 2.333404,48.853281 ]
     },
     "properties": {
-    "RUE":" Bonaparte (rue) ",
+    "RUE":"Bonaparte (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1412,7 +1412,7 @@
        "coordinates":  [ 2.377031,48.851817 ]
     },
     "properties": {
-    "RUE":" Bonne-Graine (passage de la) ",
+    "RUE":"Bonne-Graine (passage de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1438,7 +1438,7 @@
        "coordinates":  [ 2.304228,48.857847 ]
     },
     "properties": {
-    "RUE":" Bosquet (avenue) ",
+    "RUE":"Bosquet (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1464,7 +1464,7 @@
        "coordinates":  [ 2.317566,48.89533 ]
     },
     "properties": {
-    "RUE":" Boulay (passage) ",
+    "RUE":"Boulay (passage) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1490,7 +1490,7 @@
        "coordinates":  [ 2.317076,48.893449 ]
     },
     "properties": {
-    "RUE":" Boulay (rue) ",
+    "RUE":"Boulay (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1516,7 +1516,7 @@
        "coordinates":  [ 2.295703,48.876618 ]
     },
     "properties": {
-    "RUE":" Brey (rue) ",
+    "RUE":"Brey (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1542,7 +1542,7 @@
        "coordinates":  [ 2.33917,48.830187 ]
     },
     "properties": {
-    "RUE":" Cabanis (rue) ",
+    "RUE":"Cabanis (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1568,7 +1568,7 @@
        "coordinates":  [ 2.360489,48.882674 ]
     },
     "properties": {
-    "RUE":" Cail (rue) ",
+    "RUE":"Cail (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1594,7 +1594,7 @@
        "coordinates":  [ 2.350652,48.867616 ]
     },
     "properties": {
-    "RUE":" Caire (rue du) ",
+    "RUE":"Caire (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1620,7 +1620,7 @@
        "coordinates":  [ 2.326622,48.868053 ]
     },
     "properties": {
-    "RUE":" Cambon (rue) ",
+    "RUE":"Cambon (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1646,7 +1646,7 @@
        "coordinates":  [ 2.329365,48.868996 ]
     },
     "properties": {
-    "RUE":" Capucines (rue des) ",
+    "RUE":"Capucines (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1672,7 +1672,7 @@
        "coordinates":  [ 2.329365,48.868996 ]
     },
     "properties": {
-    "RUE":" Capucins (rue des) ",
+    "RUE":"Capucins (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1698,7 +1698,7 @@
        "coordinates":  [ 2.310899,48.885196 ]
     },
     "properties": {
-    "RUE":" Cardinet (rue) ",
+    "RUE":"Cardinet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1724,7 +1724,7 @@
        "coordinates":  [ 2.337115,48.837186 ]
     },
     "properties": {
-    "RUE":" Cassini (rue) ",
+    "RUE":"Cassini (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1750,7 +1750,7 @@
        "coordinates":  [ 2.327951,48.865778 ]
     },
     "properties": {
-    "RUE":" Castiglione (rue de) ",
+    "RUE":"Castiglione (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1776,7 +1776,7 @@
        "coordinates":  [ 2.336946,48.867423 ]
     },
     "properties": {
-    "RUE":" Chabanais (rue) ",
+    "RUE":"Chabanais (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1802,7 +1802,7 @@
        "coordinates":  [ 2.352736,48.876853 ]
     },
     "properties": {
-    "RUE":" Chabrol (rue de) ",
+    "RUE":"Chabrol (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1828,7 +1828,7 @@
        "coordinates":  [ 2.33997,48.895683 ]
     },
     "properties": {
-    "RUE":" Championnet (rue) ",
+    "RUE":"Championnet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1854,7 +1854,7 @@
        "coordinates":  [ 2.347118,48.878307 ]
     },
     "properties": {
-    "RUE":" Chantilly (rue de) ",
+    "RUE":"Chantilly (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1880,7 +1880,7 @@
        "coordinates":  [ 2.333168,48.880927 ]
     },
     "properties": {
-    "RUE":" Chaptal (rue) ",
+    "RUE":"Chaptal (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1906,7 +1906,7 @@
        "coordinates":  [ 2.264738,48.842671 ]
     },
     "properties": {
-    "RUE":" Chardon-Lagache (rue) ",
+    "RUE":"Chardon-Lagache (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1932,7 +1932,7 @@
        "coordinates":  [ 2.314055,48.84261 ]
     },
     "properties": {
-    "RUE":" Charlet (rue) ",
+    "RUE":"Charlet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1958,7 +1958,7 @@
        "coordinates":  [ 2.362475,48.86273 ]
     },
     "properties": {
-    "RUE":" Charlot (rue) ",
+    "RUE":"Charlot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -1984,7 +1984,7 @@
        "coordinates":  [ 2.324135,48.848328 ]
     },
     "properties": {
-    "RUE":" Cherche-Midi (rue du) ",
+    "RUE":"Cherche-Midi (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2010,7 +2010,7 @@
        "coordinates":  [ 2.308342,48.855248 ]
     },
     "properties": {
-    "RUE":" Chevert (rue) ",
+    "RUE":"Chevert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2036,7 +2036,7 @@
        "coordinates":  [ 2.335888,48.869985 ]
     },
     "properties": {
-    "RUE":" Choiseul (rue de) ",
+    "RUE":"Choiseul (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2062,7 +2062,7 @@
        "coordinates":  [ 2.360451,48.825424 ]
     },
     "properties": {
-    "RUE":" Choisy (avenue de) ",
+    "RUE":"Choisy (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2088,7 +2088,7 @@
        "coordinates":  [ 2.341166,48.877575 ]
     },
     "properties": {
-    "RUE":" Choron (rue) ",
+    "RUE":"Choron (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2114,7 +2114,7 @@
        "coordinates":  [ 2.314509,48.870398 ]
     },
     "properties": {
-    "RUE":" Cirque (rue du) ",
+    "RUE":"Cirque (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2140,7 +2140,7 @@
        "coordinates":  [ 2.323854,48.88173 ]
     },
     "properties": {
-    "RUE":" Clapeyron (rue) ",
+    "RUE":"Clapeyron (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2166,7 +2166,7 @@
        "coordinates":  [ 2.346895,48.839829 ]
     },
     "properties": {
-    "RUE":" Claude-Bernard (rue) ",
+    "RUE":"Claude-Bernard (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2192,7 +2192,7 @@
        "coordinates":  [ 2.320777,48.890097 ]
     },
     "properties": {
-    "RUE":" Clichy (avenue de) ",
+    "RUE":"Clichy (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2218,7 +2218,7 @@
        "coordinates":  [ 2.328017,48.883434 ]
     },
     "properties": {
-    "RUE":" Clichy (place de) ",
+    "RUE":"Clichy (place de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2244,7 +2244,7 @@
        "coordinates":  [ 2.329086,48.880214 ]
     },
     "properties": {
-    "RUE":" Clichy (rue de) ",
+    "RUE":"Clichy (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2270,7 +2270,7 @@
        "coordinates":  [ 2.348127,48.889392 ]
     },
     "properties": {
-    "RUE":" Clignancourt (rue de) ",
+    "RUE":"Clignancourt (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2296,7 +2296,7 @@
        "coordinates":  [ 2.344829,48.850563 ]
     },
     "properties": {
-    "RUE":" Cluny (rue de) ",
+    "RUE":"Cluny (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2322,7 +2322,7 @@
        "coordinates":  [ 2.391459,48.879356 ]
     },
     "properties": {
-    "RUE":" Compans (impasse) ",
+    "RUE":"Compans (impasse) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2348,7 +2348,7 @@
        "coordinates":  [ 2.344162,48.880017 ]
     },
     "properties": {
-    "RUE":" Condorcet (rue) ",
+    "RUE":"Condorcet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2374,7 +2374,7 @@
        "coordinates":  [ 2.319577,48.880334 ]
     },
     "properties": {
-    "RUE":" Constantinople (rue de) ",
+    "RUE":"Constantinople (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2400,7 +2400,7 @@
        "coordinates":  [ 2.339114,48.849453 ]
     },
     "properties": {
-    "RUE":" Corneille (rue) ",
+    "RUE":"Corneille (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2426,7 +2426,7 @@
        "coordinates":  [ 2.27926,48.861059 ]
     },
     "properties": {
-    "RUE":" Cortambert (rue) ",
+    "RUE":"Cortambert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2452,7 +2452,7 @@
        "coordinates":  [ 2.298819,48.88352 ]
     },
     "properties": {
-    "RUE":" Courcelles (rue de) ",
+    "RUE":"Courcelles (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2478,7 +2478,7 @@
        "coordinates":  [ 2.333999,48.883892 ]
     },
     "properties": {
-    "RUE":" Coustou (rue) ",
+    "RUE":"Coustou (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2504,7 +2504,7 @@
        "coordinates":  [ 2.283344,48.864048 ]
     },
     "properties": {
-    "RUE":" Greuse (rue) ",
+    "RUE":"Greuse (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2530,7 +2530,7 @@
        "coordinates":  [ 2.340163,48.863996 ]
     },
     "properties": {
-    "RUE":" Croix-des-Petits-Champs (rue) ",
+    "RUE":"Croix-des-Petits-Champs (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2556,7 +2556,7 @@
        "coordinates":  [ 2.356641,48.844701 ]
     },
     "properties": {
-    "RUE":" Cuvier (rue) ",
+    "RUE":"Cuvier (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2582,7 +2582,7 @@
        "coordinates":  [ 2.327688,48.834718 ]
     },
     "properties": {
-    "RUE":" Daguerre (rue) ",
+    "RUE":"Daguerre (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2608,7 +2608,7 @@
        "coordinates":  [ 2.308401,48.885231 ]
     },
     "properties": {
-    "RUE":" Daubigny (rue) ",
+    "RUE":"Daubigny (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2634,7 +2634,7 @@
        "coordinates":  [ 2.365607,48.878984 ]
     },
     "properties": {
-    "RUE":" Delessert (passage) ",
+    "RUE":"Delessert (passage) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2660,7 +2660,7 @@
        "coordinates":  [ 2.296065,48.881952 ]
     },
     "properties": {
-    "RUE":" Demours (rue) ",
+    "RUE":"Demours (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2686,7 +2686,7 @@
        "coordinates":  [ 2.357679,48.878477 ]
     },
     "properties": {
-    "RUE":" Deux-Gares (rue des) ",
+    "RUE":"Deux-Gares (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2712,7 +2712,7 @@
        "coordinates":  [ 2.265194,48.853811 ]
     },
     "properties": {
-    "RUE":" Docteur-Blanche (rue du) ",
+    "RUE":"Docteur-Blanche (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2738,7 +2738,7 @@
        "coordinates":  [ 2.332212,48.882671 ]
     },
     "properties": {
-    "RUE":" Douai (rue de) ",
+    "RUE":"Douai (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2764,7 +2764,7 @@
        "coordinates":  [ 2.353728,48.88857 ]
     },
     "properties": {
-    "RUE":" Doudeauville (rue) ",
+    "RUE":"Doudeauville (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2790,7 +2790,7 @@
        "coordinates":  [ 2.277798,48.856932 ]
     },
     "properties": {
-    "RUE":" Duban (rue) ",
+    "RUE":"Duban (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2816,7 +2816,7 @@
        "coordinates":  [ 2.293801,48.869874 ]
     },
     "properties": {
-    "RUE":" Dumont-d'Urville (rue) ",
+    "RUE":"Dumont-d'Urville (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2842,7 +2842,7 @@
        "coordinates":  [ 2.347523,48.881808 ]
     },
     "properties": {
-    "RUE":" Dunkerque (rue de) ",
+    "RUE":"Dunkerque (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2868,7 +2868,7 @@
        "coordinates":  [ 2.345859,48.850028 ]
     },
     "properties": {
-    "RUE":" Du-Sommerard (rue) ",
+    "RUE":"Du-Sommerard (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2894,7 +2894,7 @@
        "coordinates":  [ 2.350651,48.871528 ]
     },
     "properties": {
-    "RUE":" Echiquier (rue de l') ",
+    "RUE":"Echiquier (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2920,7 +2920,7 @@
        "coordinates":  [ 2.348293,48.848781 ]
     },
     "properties": {
-    "RUE":" Ecoles (rue des) ",
+    "RUE":"Ecoles (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2946,7 +2946,7 @@
        "coordinates":  [ 2.307002,48.873312 ]
     },
     "properties": {
-    "RUE":" Ecuries-d'Artois (rue des) ",
+    "RUE":"Ecuries-d'Artois (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2972,7 +2972,7 @@
        "coordinates":  [ 2.326543,48.840764 ]
     },
     "properties": {
-    "RUE":" Edgar-Quinet (boulevard) ",
+    "RUE":"Edgar-Quinet (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -2998,7 +2998,7 @@
        "coordinates":  [ 2.320167,48.879463 ]
     },
     "properties": {
-    "RUE":" Edimbourg (rue d') ",
+    "RUE":"Edimbourg (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3024,7 +3024,7 @@
        "coordinates":  [ 2.305303,48.882897 ]
     },
     "properties": {
-    "RUE":" Edouard-Detaille (rue) ",
+    "RUE":"Edouard-Detaille (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3050,7 +3050,7 @@
        "coordinates":  [ 2.287972,48.844168 ]
     },
     "properties": {
-    "RUE":" Eglise (rue de l') ",
+    "RUE":"Eglise (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3076,7 +3076,7 @@
        "coordinates":  [ 2.350828,48.872056 ]
     },
     "properties": {
-    "RUE":" Enghien (rue d') ",
+    "RUE":"Enghien (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3102,7 +3102,7 @@
        "coordinates":  [ 2.347016,48.864236 ]
     },
     "properties": {
-    "RUE":" Etienne-Marcel (rue) ",
+    "RUE":"Etienne-Marcel (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3128,7 +3128,7 @@
        "coordinates":  [ 2.284779,48.864545 ]
     },
     "properties": {
-    "RUE":" Eylau (avenue d') ",
+    "RUE":"Eylau (avenue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3154,7 +3154,7 @@
        "coordinates":  [ 2.275371,48.867861 ]
     },
     "properties": {
-    "RUE":" Faisanderie (rue de la) ",
+    "RUE":"Faisanderie (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3180,7 +3180,7 @@
        "coordinates":  [ 2.37146,48.87021 ]
     },
     "properties": {
-    "RUE":" Faubourg-du-Temple (rue du) ",
+    "RUE":"Faubourg-du-Temple (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3206,7 +3206,7 @@
        "coordinates":  [ 2.342042,48.874168 ]
     },
     "properties": {
-    "RUE":" Faubourg-Montmartre (rue du) ",
+    "RUE":"Faubourg-Montmartre (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3232,7 +3232,7 @@
        "coordinates":  [ 2.379757,48.850598 ]
     },
     "properties": {
-    "RUE":" Faubourg-Saint-Antoine (rue du) ",
+    "RUE":"Faubourg-Saint-Antoine (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3258,7 +3258,7 @@
        "coordinates":  [ 2.355602,48.875943 ]
     },
     "properties": {
-    "RUE":" Faubourg-Saint-Denis (rue du) ",
+    "RUE":"Faubourg-Saint-Denis (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3284,7 +3284,7 @@
        "coordinates":  [ 2.360673,48.876172 ]
     },
     "properties": {
-    "RUE":" Faubourg-Saint-Martin (rue du) ",
+    "RUE":"Faubourg-Saint-Martin (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3310,7 +3310,7 @@
        "coordinates":  [ 2.340805,48.870003 ]
     },
     "properties": {
-    "RUE":" Feydeau (rue) ",
+    "RUE":"Feydeau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3336,7 +3336,7 @@
        "coordinates":  [ 2.365707,48.862601 ]
     },
     "properties": {
-    "RUE":" Filles-du-Calvaire (rue des) ",
+    "RUE":"Filles-du-Calvaire (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3362,7 +3362,7 @@
        "coordinates":  [ 2.375721,48.889588 ]
     },
     "properties": {
-    "RUE":" Flandre (rue de) ",
+    "RUE":"Flandre (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3388,7 +3388,7 @@
        "coordinates":  [ 2.273191,48.867094 ]
     },
     "properties": {
-    "RUE":" Flandrin (boulevard) ",
+    "RUE":"Flandrin (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3414,7 +3414,7 @@
        "coordinates":  [ 2.329829,48.846996 ]
     },
     "properties": {
-    "RUE":" Fleurus (rue de) ",
+    "RUE":"Fleurus (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3440,7 +3440,7 @@
        "coordinates":  [ 2.270688,48.850533 ]
     },
     "properties": {
-    "RUE":" Jean de la Fontaine (rue) ",
+    "RUE":"Jean de la Fontaine (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3466,7 +3466,7 @@
        "coordinates":  [ 2.360897,48.857551 ]
     },
     "properties": {
-    "RUE":" Francs-Bourgeois (rue des) ",
+    "RUE":"Francs-Bourgeois (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3492,7 +3492,7 @@
        "coordinates":  [ 2.323976,48.825417 ]
     },
     "properties": {
-    "RUE":" Friant (rue) ",
+    "RUE":"Friant (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3518,7 +3518,7 @@
        "coordinates":  [ 2.300964,48.874429 ]
     },
     "properties": {
-    "RUE":" Friedland (avenue de) ",
+    "RUE":"Friedland (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3544,7 +3544,7 @@
        "coordinates":  [ 2.365778,48.861575 ]
     },
     "properties": {
-    "RUE":" Froissart (rue) ",
+    "RUE":"Froissart (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3570,7 +3570,7 @@
        "coordinates":  [ 2.334703,48.882475 ]
     },
     "properties": {
-    "RUE":" Fromentin (rue) ",
+    "RUE":"Fromentin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3596,7 +3596,7 @@
        "coordinates":  [ 2.398498,48.865126 ]
     },
     "properties": {
-    "RUE":" Gambetta (place) ",
+    "RUE":"Gambetta (place) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3622,7 +3622,7 @@
        "coordinates":  [ 2.315059,48.825734 ]
     },
     "properties": {
-    "RUE":" Gare (boulevard de la) ",
+    "RUE":"Gare (boulevard de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3648,7 +3648,7 @@
        "coordinates":  [ 2.268665,48.849538 ]
     },
     "properties": {
-    "RUE":" George-Sand (rue) ",
+    "RUE":"George-Sand (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3674,7 +3674,7 @@
        "coordinates":  [ 2.353281,48.834848 ]
     },
     "properties": {
-    "RUE":" Gobelins (avenue des) ",
+    "RUE":"Gobelins (avenue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3700,7 +3700,7 @@
        "coordinates":  [ 2.357421,48.831885 ]
     },
     "properties": {
-    "RUE":" Godefroy (rue) ",
+    "RUE":"Godefroy (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3726,7 +3726,7 @@
        "coordinates":  [ 2.327108,48.871668 ]
     },
     "properties": {
-    "RUE":" Godot-de-Mauroy (rue) ",
+    "RUE":"Godot-de-Mauroy (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3752,7 +3752,7 @@
        "coordinates":  [ 2.30074,48.883166 ]
     },
     "properties": {
-    "RUE":" Gounod (rue) ",
+    "RUE":"Gounod (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3778,7 +3778,7 @@
        "coordinates":  [ 2.316314,48.857751 ]
     },
     "properties": {
-    "RUE":" Grenelle (rue de) ",
+    "RUE":"Grenelle (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3804,7 +3804,7 @@
        "coordinates":  [ 2.283344,48.864048 ]
     },
     "properties": {
-    "RUE":" Greuze (rue) ",
+    "RUE":"Greuze (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3830,7 +3830,7 @@
        "coordinates":  [ 2.289296,48.881506 ]
     },
     "properties": {
-    "RUE":" Guersant (rue) ",
+    "RUE":"Guersant (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3853,10 +3853,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318227400000069,48.87952560000001 ]
+       "coordinates":  [ 2.32,48.88 ]
     },
     "properties": {
-    "RUE":" Hambourg (rue de) (actuelles rues de Naples et rue de Bucarest)",
+    "RUE":"Hambourg (rue de) (actuelles rues de Naples et rue de Bucarest)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3882,7 +3882,7 @@
        "coordinates":  [ 2.315423,48.875111 ]
     },
     "properties": {
-    "RUE":" Haussmann (boulevard) ",
+    "RUE":"Haussmann (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3908,7 +3908,7 @@
        "coordinates":  [ 2.34267,48.852193 ]
     },
     "properties": {
-    "RUE":" Hautefeuille (rue) ",
+    "RUE":"Hautefeuille (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3934,7 +3934,7 @@
        "coordinates":  [ 2.326649,48.874721 ]
     },
     "properties": {
-    "RUE":" Havre (rue du) ",
+    "RUE":"Havre (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3960,7 +3960,7 @@
        "coordinates":  [ 2.364596,48.85177 ]
     },
     "properties": {
-    "RUE":" Henri-IV (boulevard) ",
+    "RUE":"Henri-IV (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -3986,7 +3986,7 @@
        "coordinates":  [ 2.325822,48.874871 ]
     },
     "properties": {
-    "RUE":" Isly (rue de l') ",
+    "RUE":"Isly (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4012,7 +4012,7 @@
        "coordinates":  [ 2.357629,48.824815 ]
     },
     "properties": {
-    "RUE":" Italie (avenue d') ",
+    "RUE":"Italie (avenue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4038,7 +4038,7 @@
        "coordinates":  [ 2.334143,48.855374 ]
     },
     "properties": {
-    "RUE":" Jacob (rue) ",
+    "RUE":"Jacob (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4064,7 +4064,7 @@
        "coordinates":  [ 2.367367,48.852504 ]
     },
     "properties": {
-    "RUE":" Jacques-Coeur (rue) ",
+    "RUE":"Jacques-Coeur (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4090,7 +4090,7 @@
        "coordinates":  [ 2.287261,48.843361 ]
     },
     "properties": {
-    "RUE":" Javel (rue de) ",
+    "RUE":"Javel (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4116,7 +4116,7 @@
        "coordinates":  [ 2.341759,48.863211 ]
     },
     "properties": {
-    "RUE":" Jean-Jacques-Rousseau (rue) ",
+    "RUE":"Jean-Jacques-Rousseau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4142,7 +4142,7 @@
        "coordinates":  [ 2.307907,48.858882 ]
     },
     "properties": {
-    "RUE":" Jean-Nicot (passage) ",
+    "RUE":"Jean-Nicot (passage) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4168,7 +4168,7 @@
        "coordinates":  [ 2.364911,48.876135 ]
     },
     "properties": {
-    "RUE":" Jemmapes (quai de) ",
+    "RUE":"Jemmapes (quai de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4194,7 +4194,7 @@
        "coordinates":  [ 2.330457,48.8746 ]
     },
     "properties": {
-    "RUE":" Joubert (rue) ",
+    "RUE":"Joubert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4220,7 +4220,7 @@
        "coordinates":  [ 2.306922,48.884887 ]
     },
     "properties": {
-    "RUE":" Jouffroy (rue) ",
+    "RUE":"Jouffroy (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4246,7 +4246,7 @@
        "coordinates":  [ 2.305424,48.888395 ]
     },
     "properties": {
-    "RUE":" Juliette-Lamber (rue) ",
+    "RUE":"Juliette-Lamber (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4272,7 +4272,7 @@
        "coordinates":  [ 2.35514,48.846244 ]
     },
     "properties": {
-    "RUE":" Jussieu (place) ",
+    "RUE":"Jussieu (place) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4298,7 +4298,7 @@
        "coordinates":  [ 2.367787,48.884583 ]
     },
     "properties": {
-    "RUE":" Kabylie (rue de) ",
+    "RUE":"Kabylie (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4324,7 +4324,7 @@
        "coordinates":  [ 2.375933,48.854814 ]
     },
     "properties": {
-    "RUE":" Keller (rue) ",
+    "RUE":"Keller (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4350,7 +4350,7 @@
        "coordinates":  [ 2.300515,48.857487 ]
     },
     "properties": {
-    "RUE":" La-Bourdonnais (avenue de) ",
+    "RUE":"La-Bourdonnais (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4373,10 +4373,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.378077,48.827446 ]
+       "coordinates":  [ 2.36,48.87 ]
     },
     "properties": {
-    "RUE":" Lacasse (rue) ",
+    "RUE":"Lacasse (rue) (actuellement partie de la rue Yves-Toudic.",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4402,7 +4402,7 @@
        "coordinates":  [ 2.321827,48.885988 ]
     },
     "properties": {
-    "RUE":" La-Condamine (rue) ",
+    "RUE":"La-Condamine (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4428,7 +4428,7 @@
        "coordinates":  [ 2.322685,48.890595 ]
     },
     "properties": {
-    "RUE":" Lacroix (rue) ",
+    "RUE":"Lacroix (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4454,33 +4454,7 @@
        "coordinates":  [ 2.3595,48.88006 ]
     },
     "properties": {
-    "RUE":" La-Fayette (rue) ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.296375,48.84913 ]
-    },
-    "properties": {
-    "RUE":" Laffite (passage) ",
+    "RUE":"La-Fayette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4506,7 +4480,33 @@
        "coordinates":  [ 2.338082,48.873923 ]
     },
     "properties": {
-    "RUE":" Laffitte (rue) ",
+    "RUE":"Laffite (passage) (voie supprimée  localisation?)",
+    "COMMUNE":"Paris",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.32,48.82 ]
+    },
+    "properties": {
+    "RUE":"Laffitte (rue) (actuellement partie du boulevard Romain-Rolland)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4532,7 +4532,7 @@
        "coordinates":  [ 2.270688,48.850533 ]
     },
     "properties": {
-    "RUE":" Jean de la Fontaine (rue) ",
+    "RUE":"Jean de la Fontaine (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4558,7 +4558,7 @@
        "coordinates":  [ 2.354918,48.887959 ]
     },
     "properties": {
-    "RUE":" Laghouat (rue de) ",
+    "RUE":"Laghouat (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4584,7 +4584,7 @@
        "coordinates":  [ 2.348197,48.851235 ]
     },
     "properties": {
-    "RUE":" Lagrange (rue) ",
+    "RUE":"Lagrange (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4610,7 +4610,7 @@
        "coordinates":  [ 2.302922,48.873977 ]
     },
     "properties": {
-    "RUE":" Lamennais (rue) ",
+    "RUE":"Lamennais (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4636,7 +4636,7 @@
        "coordinates":  [ 2.349531,48.859915 ]
     },
     "properties": {
-    "RUE":" La-Reynie (rue de) ",
+    "RUE":"La-Reynie (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4662,7 +4662,7 @@
        "coordinates":  [ 2.334892,48.879351 ]
     },
     "properties": {
-    "RUE":" La-Rochefoucauld (rue de) ",
+    "RUE":"La-Rochefoucauld (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4688,7 +4688,7 @@
        "coordinates":  [ 2.343127,48.879311 ]
     },
     "properties": {
-    "RUE":" La-Tour-d'Auvergne (rue de) ",
+    "RUE":"La-Tour-d'Auvergne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4714,7 +4714,7 @@
        "coordinates":  [ 2.309844,48.858417 ]
     },
     "properties": {
-    "RUE":" La-Tour-Maubourg (boulevard de) ",
+    "RUE":"La-Tour-Maubourg (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4740,7 +4740,7 @@
        "coordinates":  [ 2.289577,48.868984 ]
     },
     "properties": {
-    "RUE":" Lauriston (rue) ",
+    "RUE":"Lauriston (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4766,7 +4766,7 @@
        "coordinates":  [ 2.297389,48.840934 ]
     },
     "properties": {
-    "RUE":" Lecourbe (rue) ",
+    "RUE":"Lecourbe (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4792,7 +4792,7 @@
        "coordinates":  [ 2.371818,48.848395 ]
     },
     "properties": {
-    "RUE":" Ledru-Rollin (avenue) ",
+    "RUE":"Ledru-Rollin (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4818,7 +4818,7 @@
        "coordinates":  [ 2.371818,48.848395 ]
     },
     "properties": {
-    "RUE":" Ledru-Rollin (rue) ",
+    "RUE":"Ledru-Rollin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4844,7 +4844,7 @@
        "coordinates":  [ 2.341593,48.846503 ]
     },
     "properties": {
-    "RUE":" Le-Goff (rue) ",
+    "RUE":"Le-Goff (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4870,7 +4870,7 @@
        "coordinates":  [ 2.321403,48.887867 ]
     },
     "properties": {
-    "RUE":" Lemercier (rue) ",
+    "RUE":"Lemercier (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4896,7 +4896,7 @@
        "coordinates":  [ 2.327157,48.859234 ]
     },
     "properties": {
-    "RUE":" Lille (rue de) ",
+    "RUE":"Lille (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4922,7 +4922,7 @@
        "coordinates":  [ 2.312688,48.877578 ]
     },
     "properties": {
-    "RUE":" Lisbonne (rue de) ",
+    "RUE":"Lisbonne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4948,7 +4948,7 @@
        "coordinates":  [ 2.283788,48.865491 ]
     },
     "properties": {
-    "RUE":" Longchamp (rue de) ",
+    "RUE":"Longchamp (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -4974,7 +4974,7 @@
        "coordinates":  [ 2.364471,48.881443 ]
     },
     "properties": {
-    "RUE":" Louis-Blanc (rue) ",
+    "RUE":"Louis-Blanc (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5000,7 +5000,7 @@
        "coordinates":  [ 2.329402,48.827141 ]
     },
     "properties": {
-    "RUE":" Lunain (rue du) ",
+    "RUE":"Lunain (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5026,7 +5026,7 @@
        "coordinates":  [ 2.294316,48.876401 ]
     },
     "properties": {
-    "RUE":" Mac-Mahon (avenue) ",
+    "RUE":"Mac-Mahon (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5052,7 +5052,7 @@
        "coordinates":  [ 2.331795,48.84884 ]
     },
     "properties": {
-    "RUE":" Madame (rue) ",
+    "RUE":"Madame (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5078,7 +5078,7 @@
        "coordinates":  [ 2.320229,48.878256 ]
     },
     "properties": {
-    "RUE":" Madrid (rue de) ",
+    "RUE":"Madrid (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5104,7 +5104,7 @@
        "coordinates":  [ 2.356543,48.876029 ]
     },
     "properties": {
-    "RUE":" Magenta (boulevard de) ",
+    "RUE":"Magenta (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5130,7 +5130,7 @@
        "coordinates":  [ 2.324072,48.834507 ]
     },
     "properties": {
-    "RUE":" Maine (avenue du) ",
+    "RUE":"Maine (avenue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5156,7 +5156,7 @@
        "coordinates":  [ 2.283765,48.875141 ]
     },
     "properties": {
-    "RUE":" Malakoff (avenue de) ",
+    "RUE":"Malakoff (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5182,7 +5182,7 @@
        "coordinates":  [ 2.305842,48.86057 ]
     },
     "properties": {
-    "RUE":" Malar (rue) ",
+    "RUE":"Malar (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5208,7 +5208,7 @@
        "coordinates":  [ 2.307152,48.885501 ]
     },
     "properties": {
-    "RUE":" Malesherbes (boulevard) ",
+    "RUE":"Malesherbes (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5234,7 +5234,7 @@
        "coordinates":  [ 2.367713,48.86563 ]
     },
     "properties": {
-    "RUE":" Malte (rue de) ",
+    "RUE":"Malte (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5260,7 +5260,7 @@
        "coordinates":  [ 2.340365,48.878255 ]
     },
     "properties": {
-    "RUE":" Manuel (rue) ",
+    "RUE":"Manuel (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5286,7 +5286,7 @@
        "coordinates":  [ 2.361449,48.871721 ]
     },
     "properties": {
-    "RUE":" Marais (rue des) ",
+    "RUE":"Marais (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5312,7 +5312,7 @@
        "coordinates":  [ 2.298245,48.869169 ]
     },
     "properties": {
-    "RUE":" Marceau (avenue) ",
+    "RUE":"Marceau (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5335,10 +5335,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.301467,48.880006 ]
+       "coordinates":  [ 2.28,48.84 ]
     },
     "properties": {
-    "RUE":" Marguerites (rue des) ",
+    "RUE":"Marguerites (rue des) (actuellement rue des Cévennes)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5364,7 +5364,7 @@
        "coordinates":  [ 2.306439,48.868712 ]
     },
     "properties": {
-    "RUE":" Marignan (rue de) ",
+    "RUE":"Marignan (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5390,7 +5390,7 @@
        "coordinates":  [ 2.339935,48.878979 ]
     },
     "properties": {
-    "RUE":" Martyrs (rue des) ",
+    "RUE":"Martyrs (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5416,7 +5416,7 @@
        "coordinates":  [ 2.31414,48.848512 ]
     },
     "properties": {
-    "RUE":" Masseran (rue) ",
+    "RUE":"Masseran (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5442,7 +5442,7 @@
        "coordinates":  [ 2.324163,48.873277 ]
     },
     "properties": {
-    "RUE":" Mathurins (rue des) ",
+    "RUE":"Mathurins (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5465,10 +5465,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.313281,48.870916 ]
+       "coordinates":  [ 2.31,48.87 ]
     },
     "properties": {
-    "RUE":" Matignon (rue) ",
+    "RUE":"Matignon (rue) (correspond à 2 voies : voie ancienne : voir cul-de-sac du Doyenné. Actuelle partie de l'avenue Matignon)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5494,7 +5494,7 @@
        "coordinates":  [ 2.344225,48.877867 ]
     },
     "properties": {
-    "RUE":" Maubeuge (rue de) ",
+    "RUE":"Maubeuge (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5520,7 +5520,7 @@
        "coordinates":  [ 2.351698,48.870558 ]
     },
     "properties": {
-    "RUE":" Mazagran (rue de) ",
+    "RUE":"Mazagran (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5546,7 +5546,7 @@
        "coordinates":  [ 2.284463,48.868233 ]
     },
     "properties": {
-    "RUE":" Mesnil (rue) ",
+    "RUE":"Mesnil (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5572,7 +5572,7 @@
        "coordinates":  [ 2.312967,48.87638 ]
     },
     "properties": {
-    "RUE":" Messine (avenue de) ",
+    "RUE":"Messine (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5595,10 +5595,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310881,48.876588 ]
+       "coordinates":  [  2.31,48.87 ]
     },
     "properties": {
-    "RUE":" Messine (square de) ",
+    "RUE":"Messine (square de) (actuellement rue du Docteur-Lancereaux)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5624,7 +5624,7 @@
        "coordinates":  [ 2.260497,48.843325 ]
     },
     "properties": {
-    "RUE":" Michel-Ange (rue) ",
+    "RUE":"Michel-Ange (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5650,7 +5650,7 @@
        "coordinates":  [ 2.341181,48.878249 ]
     },
     "properties": {
-    "RUE":" Milton (rue) ",
+    "RUE":"Milton (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5676,7 +5676,7 @@
        "coordinates":  [ 2.365842,48.857287 ]
     },
     "properties": {
-    "RUE":" Minimes (rue des) ",
+    "RUE":"Minimes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5702,7 +5702,7 @@
        "coordinates":  [ 2.315861,48.875702 ]
     },
     "properties": {
-    "RUE":" Miromesnil (rue de) ",
+    "RUE":"Miromesnil (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5728,7 +5728,7 @@
        "coordinates":  [ 2.311263,48.878086 ]
     },
     "properties": {
-    "RUE":" Monceau (rue de) ",
+    "RUE":"Monceau (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5754,7 +5754,7 @@
        "coordinates":  [ 2.352176,48.843955 ]
     },
     "properties": {
-    "RUE":" Monge (rue) ",
+    "RUE":"Monge (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5780,7 +5780,7 @@
        "coordinates":  [ 2.305758,48.86649 ]
     },
     "properties": {
-    "RUE":" Montaigne (avenue) ",
+    "RUE":"Montaigne (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5803,10 +5803,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.305758,48.86649 ]
+       "coordinates":  [ 2.31,48.87 ]
     },
     "properties": {
-    "RUE":" Montaigne (rue) ",
+    "RUE":"Montaigne (rue) (actuellement rue Jean-Mermoz)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5832,7 +5832,7 @@
        "coordinates":  [ 2.318644,48.871081 ]
     },
     "properties": {
-    "RUE":" Montalivet (rue) ",
+    "RUE":"Montalivet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5858,7 +5858,7 @@
        "coordinates":  [ 2.29903,48.859578 ]
     },
     "properties": {
-    "RUE":" Montessuy (rue de) ",
+    "RUE":"Montessuy (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5884,7 +5884,7 @@
        "coordinates":  [ 2.341555,48.871907 ]
     },
     "properties": {
-    "RUE":" Montmartre (boulevard) ",
+    "RUE":"Montmartre (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5910,7 +5910,7 @@
        "coordinates":  [ 2.262425,48.851578 ]
     },
     "properties": {
-    "RUE":" Montmorency (boulevard de) ",
+    "RUE":"Montmorency (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5936,7 +5936,7 @@
        "coordinates":  [ 2.325946,48.84341 ]
     },
     "properties": {
-    "RUE":" Montparnasse (boulevard du) ",
+    "RUE":"Montparnasse (boulevard du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5962,7 +5962,7 @@
        "coordinates":  [ 2.325566,48.842208 ]
     },
     "properties": {
-    "RUE":" Montparnasse (rue du) ",
+    "RUE":"Montparnasse (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -5988,7 +5988,7 @@
        "coordinates":  [ 2.327309,48.86618 ]
     },
     "properties": {
-    "RUE":" Mont-Thabor (rue du) ",
+    "RUE":"Mont-Thabor (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6014,7 +6014,7 @@
        "coordinates":  [ 2.372661,48.849943 ]
     },
     "properties": {
-    "RUE":" Moreau (rue) ",
+    "RUE":"Moreau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6040,7 +6040,7 @@
        "coordinates":  [ 2.324351,48.880893 ]
     },
     "properties": {
-    "RUE":" Moscou (rue de) ",
+    "RUE":"Moscou (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6063,10 +6063,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.269154,48.853994 ]
+       "coordinates":  [ 2.27,48.85 ]
     },
     "properties": {
-    "RUE":" Mozart (rue) ",
+    "RUE":"Mozart (rue) (actuellement avenue Mozart)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6092,7 +6092,7 @@
        "coordinates":  [ 2.307635,48.877893 ]
     },
     "properties": {
-    "RUE":" Murillo (rue) ",
+    "RUE":"Murillo (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6118,7 +6118,7 @@
        "coordinates":  [ 2.338558,48.879656 ]
     },
     "properties": {
-    "RUE":" Navarin (rue de) ",
+    "RUE":"Navarin (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6144,7 +6144,7 @@
        "coordinates":  [ 2.3725,48.865451 ]
     },
     "properties": {
-    "RUE":" Nemours (rue de) ",
+    "RUE":"Nemours (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6170,7 +6170,7 @@
        "coordinates":  [ 2.331491,48.843012 ]
     },
     "properties": {
-    "RUE":" Notre-Dame-des-Champs (rue) ",
+    "RUE":"Notre-Dame-des-Champs (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6196,7 +6196,7 @@
        "coordinates":  [ 2.2958,48.881891 ]
     },
     "properties": {
-    "RUE":" Niel (avenue) ",
+    "RUE":"Niel (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6219,10 +6219,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.307361,48.860675 ]
+       "coordinates":  [ 2.29,48.87 ]
     },
     "properties": {
-    "RUE":" Nitot (rue) ",
+    "RUE":"Nitot (rue) (actuellement rue de l'Amiral-d'Estaing)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6248,7 +6248,7 @@
        "coordinates":  [ 2.321055,48.887043 ]
     },
     "properties": {
-    "RUE":" Nollet (rue) ",
+    "RUE":"Nollet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6274,7 +6274,7 @@
        "coordinates":  [ 2.337269,48.878746 ]
     },
     "properties": {
-    "RUE":" Notre-Dame-de-Lorette (rue) ",
+    "RUE":"Notre-Dame-de-Lorette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6300,7 +6300,7 @@
        "coordinates":  [ 2.331491,48.843012 ]
     },
     "properties": {
-    "RUE":" Notre-Dame-des-Champs (rue) ",
+    "RUE":"Notre-Dame-des-Champs (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6323,10 +6323,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.297936,48.876334 ]
+       "coordinates":  [ 2.3,48.85 ]
     },
     "properties": {
-    "RUE":" Nouvelle (rue) ",
+    "RUE":"Nouvelle (rue) (correspond à 2 voies : actuelle rue Saint-Hubert. Actuelle partie de la rue Dupleix) (localisation?)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6352,7 +6352,7 @@
        "coordinates":  [ 2.376698,48.86542 ]
     },
     "properties": {
-    "RUE":" Oberkampf (rue) ",
+    "RUE":"Oberkampf (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6378,7 +6378,7 @@
        "coordinates":  [ 2.336319,48.837897 ]
     },
     "properties": {
-    "RUE":" Observatoire (rue de l') ",
+    "RUE":"Observatoire (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6404,7 +6404,7 @@
        "coordinates":  [ 2.343377,48.88377 ]
     },
     "properties": {
-    "RUE":" Orsel (rue d') ",
+    "RUE":"Orsel (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6430,7 +6430,7 @@
        "coordinates":  [ 2.317852,48.850155 ]
     },
     "properties": {
-    "RUE":" Oudinot (rue) ",
+    "RUE":"Oudinot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6456,7 +6456,7 @@
        "coordinates":  [ 2.317968,48.835341 ]
     },
     "properties": {
-    "RUE":" Ouest (rue de l') ",
+    "RUE":"Ouest (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6482,7 +6482,7 @@
        "coordinates":  [ 2.331307,48.869138 ]
     },
     "properties": {
-    "RUE":" Paix (rue de la) ",
+    "RUE":"Paix (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6508,7 +6508,7 @@
        "coordinates":  [ 2.386754,48.866682 ]
     },
     "properties": {
-    "RUE":" Panoyaux (rue des) ",
+    "RUE":"Panoyaux (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6534,7 +6534,7 @@
        "coordinates":  [ 2.34454,48.851839 ]
     },
     "properties": {
-    "RUE":" Parcheminerie (rue de la) ",
+    "RUE":"Parcheminerie (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6557,10 +6557,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.287478,49.885199 ]
+       "coordinates":  [ 2.41,48.85 ]
     },
     "properties": {
-    "RUE":" Paris (rue de) ",
+    "RUE":"Paris (rue de) (dénomination correspond à 10 voies : voie supprimée. Actuelle partie de l'avenue de la Porte-de-Montreuil. Actuelles partie de l'avenue de la Porte-d'Ivry et place du Docteur-Yersin. Actuelle partie de l'avenue de la Porte-de-Charenton. Actuelle partie de l'avenue de la Porte-des-Lilas. Actuelle partie de l'avenue de la Porte-de-Bagnolet. Actuelle partie de l'avenue de la Porte-de-Pantin. Actuelle partie de la rue de Tocqueville. Actuelle partie de la rue de Belleville. Partie de l'actuelle rue de Bagnolet) (localisation?)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6586,7 +6586,7 @@
        "coordinates":  [ 2.375635,48.864029 ]
     },
     "properties": {
-    "RUE":" Parmentier (avenue) ",
+    "RUE":"Parmentier (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6612,7 +6612,7 @@
        "coordinates":  [ 2.391552,48.865171 ]
     },
     "properties": {
-    "RUE":" Partants (rue des) ",
+    "RUE":"Partants (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6638,7 +6638,7 @@
        "coordinates":  [ 2.279921,48.857829 ]
     },
     "properties": {
-    "RUE":" Passy (rue de) ",
+    "RUE":"Passy (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6664,7 +6664,7 @@
        "coordinates":  [ 2.313679,48.841945 ]
     },
     "properties": {
-    "RUE":" Pasteur (boulevard) ",
+    "RUE":"Pasteur (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6690,7 +6690,7 @@
        "coordinates":  [ 2.359653,48.86274 ]
     },
     "properties": {
-    "RUE":" Pastourelle (rue) ",
+    "RUE":"Pastourelle (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6716,7 +6716,7 @@
        "coordinates":  [ 2.362293,48.858097 ]
     },
     "properties": {
-    "RUE":" Payenne (rue) ",
+    "RUE":"Payenne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6742,7 +6742,7 @@
        "coordinates":  [ 2.360399,48.883463 ]
     },
     "properties": {
-    "RUE":" Perdonnet (rue) ",
+    "RUE":"Perdonnet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6768,7 +6768,7 @@
        "coordinates":  [ 2.295772,48.883921 ]
     },
     "properties": {
-    "RUE":" Pereire (boulevard) ",
+    "RUE":"Pereire (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6794,7 +6794,7 @@
        "coordinates":  [ 2.351311,48.873662 ]
     },
     "properties": {
-    "RUE":" Petites-Ecuries (rue des) ",
+    "RUE":"Petites-Ecuries (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6820,7 +6820,7 @@
        "coordinates":  [ 2.336797,48.866713 ]
     },
     "properties": {
-    "RUE":" Petits-Champs (rue des) ",
+    "RUE":"Petits-Champs (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6846,7 +6846,7 @@
        "coordinates":  [ 2.398624,48.84133 ]
     },
     "properties": {
-    "RUE":" Picpus (rue de) ",
+    "RUE":"Picpus (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6872,7 +6872,7 @@
        "coordinates":  [ 2.303259,48.869364 ]
     },
     "properties": {
-    "RUE":" Pierre-Charron (rue) ",
+    "RUE":"Pierre-Charron (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6898,7 +6898,7 @@
        "coordinates":  [ 2.326211,48.858975 ]
     },
     "properties": {
-    "RUE":" Poitiers (rue de) ",
+    "RUE":"Poitiers (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6924,7 +6924,7 @@
        "coordinates":  [ 2.297599,48.879426 ]
     },
     "properties": {
-    "RUE":" Poncelet (rue) ",
+    "RUE":"Poncelet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6950,7 +6950,7 @@
        "coordinates":  [ 2.304011,48.882464 ]
     },
     "properties": {
-    "RUE":" Prony (rue de) ",
+    "RUE":"Prony (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -6976,7 +6976,7 @@
        "coordinates":  [ 2.33539,48.8742 ]
     },
     "properties": {
-    "RUE":" Provence (rue de) ",
+    "RUE":"Provence (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7002,7 +7002,7 @@
        "coordinates":  [ 2.33294,48.865113 ]
     },
     "properties": {
-    "RUE":" Pyramides (rue des) ",
+    "RUE":"Pyramides (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7028,7 +7028,7 @@
        "coordinates":  [ 2.339368,48.865684 ]
     },
     "properties": {
-    "RUE":" Radziwill (rue) ",
+    "RUE":"Radziwill (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7054,7 +7054,7 @@
        "coordinates":  [ 2.348046,48.86253 ]
     },
     "properties": {
-    "RUE":" Rambuteau (rue) ",
+    "RUE":"Rambuteau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7080,7 +7080,7 @@
        "coordinates":  [ 2.348046,48.86253 ]
     },
     "properties": {
-    "RUE":" Rambuteau (rue de) ",
+    "RUE":"Rambuteau (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7106,7 +7106,7 @@
        "coordinates":  [ 2.271948,48.855183 ]
     },
     "properties": {
-    "RUE":" Ranelagh (rue du) ",
+    "RUE":"Ranelagh (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7132,7 +7132,7 @@
        "coordinates":  [ 2.330571,48.838597 ]
     },
     "properties": {
-    "RUE":" Raspail (boulevard) ",
+    "RUE":"Raspail (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7158,7 +7158,7 @@
        "coordinates":  [ 2.326714,48.848383 ]
     },
     "properties": {
-    "RUE":" Regard (rue du) ",
+    "RUE":"Regard (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7184,7 +7184,7 @@
        "coordinates":  [ 2.337605,48.824491 ]
     },
     "properties": {
-    "RUE":" Reille (avenue) ",
+    "RUE":"Reille (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7210,7 +7210,7 @@
        "coordinates":  [ 2.297179,48.882268 ]
     },
     "properties": {
-    "RUE":" Rennequin (rue) ",
+    "RUE":"Rennequin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7236,7 +7236,7 @@
        "coordinates":  [ 2.328205,48.848597 ]
     },
     "properties": {
-    "RUE":" Rennes (rue de) ",
+    "RUE":"Rennes (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7262,7 +7262,7 @@
        "coordinates":  [ 2.389852,48.844692 ]
     },
     "properties": {
-    "RUE":" Reuilly (rue de) ",
+    "RUE":"Reuilly (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7288,7 +7288,7 @@
        "coordinates":  [ 2.338943,48.869485 ]
     },
     "properties": {
-    "RUE":" Richelieu (rue de) ",
+    "RUE":"Richelieu (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7314,7 +7314,7 @@
        "coordinates":  [ 2.344891,48.87409 ]
     },
     "properties": {
-    "RUE":" Richer (rue) ",
+    "RUE":"Richer (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7340,7 +7340,7 @@
        "coordinates":  [ 2.372782,48.888892 ]
     },
     "properties": {
-    "RUE":" Riquet (rue) ",
+    "RUE":"Riquet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7366,7 +7366,7 @@
        "coordinates":  [ 2.338081,48.861863 ]
     },
     "properties": {
-    "RUE":" Rivoli (rue de) ",
+    "RUE":"Rivoli (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7392,7 +7392,7 @@
        "coordinates":  [ 2.346096,48.877284 ]
     },
     "properties": {
-    "RUE":" Rochambeau (rue) ",
+    "RUE":"Rochambeau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7418,7 +7418,7 @@
        "coordinates":  [ 2.344477,48.883146 ]
     },
     "properties": {
-    "RUE":" Rochechouart (boulevard de) ",
+    "RUE":"Rochechouart (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7444,7 +7444,7 @@
        "coordinates":  [ 2.345949,48.87976 ]
     },
     "properties": {
-    "RUE":" Rochechouart (rue de) ",
+    "RUE":"Rochechouart (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7470,7 +7470,7 @@
        "coordinates":  [ 2.319996,48.878055 ]
     },
     "properties": {
-    "RUE":" Rocher (rue du) ",
+    "RUE":"Rocher (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7496,7 +7496,7 @@
        "coordinates":  [ 2.317553,48.884785 ]
     },
     "properties": {
-    "RUE":" Rome (rue de) ",
+    "RUE":"Rome (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7522,7 +7522,7 @@
        "coordinates":  [ 2.399157,48.863509 ]
     },
     "properties": {
-    "RUE":" Rondonneaux (rue des) ",
+    "RUE":"Rondonneaux (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7548,7 +7548,7 @@
        "coordinates":  [ 2.37821,48.85683 ]
     },
     "properties": {
-    "RUE":" Roquette (rue de la) ",
+    "RUE":"Roquette (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7574,7 +7574,7 @@
        "coordinates":  [ 2.299478,48.876602 ]
     },
     "properties": {
-    "RUE":" Roule (square du) ",
+    "RUE":"Roule (square du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7600,7 +7600,7 @@
        "coordinates":  [ 2.318415,48.849041 ]
     },
     "properties": {
-    "RUE":" Rousselet (rue) ",
+    "RUE":"Rousselet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7626,7 +7626,7 @@
        "coordinates":  [ 2.395107,48.879911 ]
     },
     "properties": {
-    "RUE":" Sadi-Carnot (villa) ",
+    "RUE":"Sadi-Carnot (villa) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7652,7 +7652,7 @@
        "coordinates":  [ 2.284114,48.844879 ]
     },
     "properties": {
-    "RUE":" Saint-Charles (rue) ",
+    "RUE":"Saint-Charles (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7678,7 +7678,7 @@
        "coordinates":  [ 2.336257,48.86799 ]
     },
     "properties": {
-    "RUE":" Sainte-Anne (rue) ",
+    "RUE":"Sainte-Anne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7704,7 +7704,7 @@
        "coordinates":  [ 2.323965,48.867243 ]
     },
     "properties": {
-    "RUE":" Saint-Florentin (rue) ",
+    "RUE":"Saint-Florentin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7730,7 +7730,7 @@
        "coordinates":  [ 2.337184,48.876334 ]
     },
     "properties": {
-    "RUE":" Saint-Georges (rue) ",
+    "RUE":"Saint-Georges (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7756,7 +7756,7 @@
        "coordinates":  [ 2.32507,48.856861 ]
     },
     "properties": {
-    "RUE":" Saint-Germain (boulevard) ",
+    "RUE":"Saint-Germain (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7782,7 +7782,7 @@
        "coordinates":  [ 2.344498,48.858339 ]
     },
     "properties": {
-    "RUE":" Saint-Germain-l'Auxerrois (rue) ",
+    "RUE":"Saint-Germain-l'Auxerrois (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7808,7 +7808,7 @@
        "coordinates":  [ 2.366233,48.857937 ]
     },
     "properties": {
-    "RUE":" Saint-Gilles (rue) ",
+    "RUE":"Saint-Gilles (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7834,7 +7834,7 @@
        "coordinates":  [ 2.331726,48.866046 ]
     },
     "properties": {
-    "RUE":" Saint-Hyacinthe (rue) ",
+    "RUE":"Saint-Hyacinthe (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7860,7 +7860,7 @@
        "coordinates":  [ 2.33325,48.87679 ]
     },
     "properties": {
-    "RUE":" Saint-Lazare (rue) ",
+    "RUE":"Saint-Lazare (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7886,7 +7886,7 @@
        "coordinates":  [ 2.340622,48.870451 ]
     },
     "properties": {
-    "RUE":" Saint-Marc (rue) ",
+    "RUE":"Saint-Marc (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7912,7 +7912,7 @@
        "coordinates":  [ 2.353287,48.864637 ]
     },
     "properties": {
-    "RUE":" Saint-Martin (rue) ",
+    "RUE":"Saint-Martin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7938,7 +7938,7 @@
        "coordinates":  [ 2.377933,48.864934 ]
     },
     "properties": {
-    "RUE":" Saint-Maur (rue) ",
+    "RUE":"Saint-Maur (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7964,7 +7964,7 @@
        "coordinates":  [ 2.340609,48.846495 ]
     },
     "properties": {
-    "RUE":" Saint-Michel (boulevard) ",
+    "RUE":"Saint-Michel (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -7990,7 +7990,7 @@
        "coordinates":  [ 2.363523,48.862578 ]
     },
     "properties": {
-    "RUE":" Saintonge (rue de) ",
+    "RUE":"Saintonge (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8016,7 +8016,7 @@
        "coordinates":  [ 2.32543,48.848758 ]
     },
     "properties": {
-    "RUE":" Saint-Placide (rue) ",
+    "RUE":"Saint-Placide (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8042,7 +8042,7 @@
        "coordinates":  [ 2.332396,48.865739 ]
     },
     "properties": {
-    "RUE":" Saint-Roch (rue) ",
+    "RUE":"Saint-Roch (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8068,7 +8068,7 @@
        "coordinates":  [ 2.371743,48.874703 ]
     },
     "properties": {
-    "RUE":" Sambre-et-Meuse (rue de) ",
+    "RUE":"Sambre-et-Meuse (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8094,7 +8094,7 @@
        "coordinates":  [ 2.311901,48.887285 ]
     },
     "properties": {
-    "RUE":" Saussure (rue de) ",
+    "RUE":"Saussure (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8120,7 +8120,7 @@
        "coordinates":  [ 2.282478,48.86178 ]
     },
     "properties": {
-    "RUE":" Scheffer (rue) ",
+    "RUE":"Scheffer (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8146,7 +8146,7 @@
        "coordinates":  [ 2.374946,48.857132 ]
     },
     "properties": {
-    "RUE":" Sedaine (rue) ",
+    "RUE":"Sedaine (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8172,7 +8172,7 @@
        "coordinates":  [ 2.336785,48.854758 ]
     },
     "properties": {
-    "RUE":" Seine (rue de) ",
+    "RUE":"Seine (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8198,7 +8198,7 @@
        "coordinates":  [ 2.382334,48.861811 ]
     },
     "properties": {
-    "RUE":" Servan (rue) ",
+    "RUE":"Servan (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8224,7 +8224,7 @@
        "coordinates":  [ 2.284237,48.8704 ]
     },
     "properties": {
-    "RUE":" Sontay (rue de) ",
+    "RUE":"Sontay (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8250,7 +8250,7 @@
        "coordinates":  [ 2.277501,48.868328 ]
     },
     "properties": {
-    "RUE":" Spontini (rue) ",
+    "RUE":"Spontini (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8276,7 +8276,7 @@
        "coordinates":  [ 2.309383,48.860901 ]
     },
     "properties": {
-    "RUE":" Surcouf (rue) ",
+    "RUE":"Surcouf (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8302,7 +8302,7 @@
        "coordinates":  [ 2.335298,48.874972 ]
     },
     "properties": {
-    "RUE":" Taitbout (rue) ",
+    "RUE":"Taitbout (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8328,7 +8328,7 @@
        "coordinates":  [ 2.365933,48.864963 ]
     },
     "properties": {
-    "RUE":" Temple (boulevard du) ",
+    "RUE":"Temple (boulevard du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8354,7 +8354,7 @@
        "coordinates":  [ 2.358615,48.863675 ]
     },
     "properties": {
-    "RUE":" Temple (rue du) ",
+    "RUE":"Temple (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8380,7 +8380,7 @@
        "coordinates":  [ 2.29171,48.879046 ]
     },
     "properties": {
-    "RUE":" Ternes (avenue des) ",
+    "RUE":"Ternes (avenue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8406,7 +8406,7 @@
        "coordinates":  [ 2.297876,48.878539 ]
     },
     "properties": {
-    "RUE":" Ternes (place des) ",
+    "RUE":"Ternes (place des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8432,7 +8432,7 @@
        "coordinates":  [ 2.288712,48.881186 ]
     },
     "properties": {
-    "RUE":" Ternes (rue des) ",
+    "RUE":"Ternes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8458,7 +8458,7 @@
        "coordinates":  [ 2.313534,48.881883 ]
     },
     "properties": {
-    "RUE":" Terrasse (rue de la) ",
+    "RUE":"Terrasse (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8484,7 +8484,7 @@
        "coordinates":  [ 2.348099,48.86467 ]
     },
     "properties": {
-    "RUE":" Tiquetonne (rue) ",
+    "RUE":"Tiquetonne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8510,7 +8510,7 @@
        "coordinates":  [ 2.309589,48.885891 ]
     },
     "properties": {
-    "RUE":" Tocqueville (rue de) ",
+    "RUE":"Tocqueville (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8536,7 +8536,7 @@
        "coordinates":  [ 2.27918,48.861228 ]
     },
     "properties": {
-    "RUE":" Tour (rue de la) ",
+    "RUE":"Tour (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8562,7 +8562,7 @@
        "coordinates":  [ 2.308388,48.854185 ]
     },
     "properties": {
-    "RUE":" Tourville (avenue de) ",
+    "RUE":"Tourville (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8588,7 +8588,7 @@
        "coordinates":  [ 2.394558,48.882163 ]
     },
     "properties": {
-    "RUE":" Transit (rue) ",
+    "RUE":"Transit (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8614,7 +8614,7 @@
        "coordinates":  [ 2.373596,48.86702 ]
     },
     "properties": {
-    "RUE":" Trois-Bornes (rue des) ",
+    "RUE":"Trois-Bornes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8640,7 +8640,7 @@
        "coordinates":  [ 2.325663,48.87198 ]
     },
     "properties": {
-    "RUE":" Tronchet (rue) ",
+    "RUE":"Tronchet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8666,7 +8666,7 @@
        "coordinates":  [ 2.343211,48.881143 ]
     },
     "properties": {
-    "RUE":" Trudaine (avenue) ",
+    "RUE":"Trudaine (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8692,7 +8692,7 @@
        "coordinates":  [ 2.319897,48.88676 ]
     },
     "properties": {
-    "RUE":" Truffaut (rue) ",
+    "RUE":"Truffaut (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8718,7 +8718,7 @@
        "coordinates":  [ 2.356858,48.865587 ]
     },
     "properties": {
-    "RUE":" Turbigo (rue de) ",
+    "RUE":"Turbigo (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8744,7 +8744,7 @@
        "coordinates":  [ 2.364683,48.8604 ]
     },
     "properties": {
-    "RUE":" Turenne (rue de) ",
+    "RUE":"Turenne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8770,7 +8770,7 @@
        "coordinates":  [ 2.345143,48.880515 ]
     },
     "properties": {
-    "RUE":" Turgot (rue) ",
+    "RUE":"Turgot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8796,7 +8796,7 @@
        "coordinates":  [ 2.344806,48.843596 ]
     },
     "properties": {
-    "RUE":" Ulm (rue d') ",
+    "RUE":"Ulm (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8822,7 +8822,7 @@
        "coordinates":  [ 2.364734,48.876988 ]
     },
     "properties": {
-    "RUE":" Valmy (quai de) ",
+    "RUE":"Valmy (quai de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8848,7 +8848,7 @@
        "coordinates":  [ 2.338443,48.864614 ]
     },
     "properties": {
-    "RUE":" Valois (rue de) ",
+    "RUE":"Valois (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8874,7 +8874,7 @@
        "coordinates":  [ 2.321592,48.854494 ]
     },
     "properties": {
-    "RUE":" Varenne (rue de) ",
+    "RUE":"Varenne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8900,7 +8900,7 @@
        "coordinates":  [ 2.321592,48.854494 ]
     },
     "properties": {
-    "RUE":" Varennes (rue de) ",
+    "RUE":"Varennes (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8926,7 +8926,7 @@
        "coordinates":  [ 2.302416,48.839695 ]
     },
     "properties": {
-    "RUE":" Vaugirard (rue de) ",
+    "RUE":"Vaugirard (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8952,7 +8952,7 @@
        "coordinates":  [ 2.329123,48.858037 ]
     },
     "properties": {
-    "RUE":" Verneuil (rue de) ",
+    "RUE":"Verneuil (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -8978,7 +8978,7 @@
        "coordinates":  [ 2.268942,48.842908 ]
     },
     "properties": {
-    "RUE":" Versailles (avenue de) ",
+    "RUE":"Versailles (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9004,7 +9004,7 @@
        "coordinates":  [ 2.33536,48.875159 ]
     },
     "properties": {
-    "RUE":" Victoire (rue de la) ",
+    "RUE":"Victoire (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9030,7 +9030,7 @@
        "coordinates":  [ 2.340901,48.865449 ]
     },
     "properties": {
-    "RUE":" Victoires (place des) ",
+    "RUE":"Victoires (place des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9056,7 +9056,7 @@
        "coordinates":  [ 2.283774,48.869131 ]
     },
     "properties": {
-    "RUE":" Victor-Hugo (avenue) ",
+    "RUE":"Victor-Hugo (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9082,7 +9082,7 @@
        "coordinates":  [ 2.349792,48.857116 ]
     },
     "properties": {
-    "RUE":" Victoria (avenue) ",
+    "RUE":"Victoria (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9108,7 +9108,7 @@
        "coordinates":  [ 2.36149,48.860421 ]
     },
     "properties": {
-    "RUE":" Vieille-du-Temple (rue) ",
+    "RUE":"Vieille-du-Temple (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9134,7 +9134,7 @@
        "coordinates":  [ 2.331264,48.851593 ]
     },
     "properties": {
-    "RUE":" Vieux-Colombier (rue du) ",
+    "RUE":"Vieux-Colombier (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9160,7 +9160,7 @@
        "coordinates":  [ 2.275559,48.855923 ]
     },
     "properties": {
-    "RUE":" Vignes (rue des) ",
+    "RUE":"Vignes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9186,7 +9186,7 @@
        "coordinates":  [ 2.326444,48.871569 ]
     },
     "properties": {
-    "RUE":" Vignon (rue) ",
+    "RUE":"Vignon (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9212,7 +9212,7 @@
        "coordinates":  [ 2.324377,48.858479 ]
     },
     "properties": {
-    "RUE":" Villersexel (rue de) ",
+    "RUE":"Villersexel (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9238,7 +9238,7 @@
        "coordinates":  [ 2.370574,48.878667 ]
     },
     "properties": {
-    "RUE":" Villette (boulevard de la) ",
+    "RUE":"Villette (boulevard de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9264,7 +9264,7 @@
        "coordinates":  [ 2.303829,48.883862 ]
     },
     "properties": {
-    "RUE":" Villiers (avenue de) ",
+    "RUE":"Villiers (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9290,7 +9290,7 @@
        "coordinates":  [ 2.361198,48.873116 ]
     },
     "properties": {
-    "RUE":" Vinaigriers (rue des) ",
+    "RUE":"Vinaigriers (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9316,7 +9316,7 @@
        "coordinates":  [ 2.293294,48.847752 ]
     },
     "properties": {
-    "RUE":" Violet (rue) ",
+    "RUE":"Violet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9342,7 +9342,7 @@
        "coordinates":  [ 2.335642,48.855806 ]
     },
     "properties": {
-    "RUE":" Visconti (rue) ",
+    "RUE":"Visconti (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9368,7 +9368,7 @@
        "coordinates":  [ 2.278726,48.859313 ]
     },
     "properties": {
-    "RUE":" Vital (rue) ",
+    "RUE":"Vital (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9394,33 +9394,7 @@
        "coordinates":  [ 2.340313,48.869443 ]
     },
     "properties": {
-    "RUE":" Vivienne (rue) ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.296722,48.868133 ]
-    },
-    "properties": {
-    "RUE":"voie de paris",
+    "RUE":"Vivienne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9446,7 +9420,7 @@
        "coordinates":  [ 2.381537,48.85715 ]
     },
     "properties": {
-    "RUE":" Voltaire (boulevard) ",
+    "RUE":"Voltaire (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9472,7 +9446,7 @@
        "coordinates":  [ 2.330986,48.858874 ]
     },
     "properties": {
-    "RUE":" Voltaire (quai) ",
+    "RUE":"Voltaire (quai) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9498,7 +9472,7 @@
        "coordinates":  [ 2.357726,48.866149 ]
     },
     "properties": {
-    "RUE":" Volta (rue) ",
+    "RUE":"Volta (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9524,7 +9498,7 @@
        "coordinates":  [ 2.300611,48.881523 ]
     },
     "properties": {
-    "RUE":" Wagram (avenue de) ",
+    "RUE":"Wagram (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9550,7 +9524,7 @@
        "coordinates":  [ 2.347178,48.867877 ]
     },
     "properties": {
-    "RUE":" Aboukir (rue d') ",
+    "RUE":"Aboukir (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9576,7 +9550,7 @@
        "coordinates":  [ 2.392571,48.853572 ]
     },
     "properties": {
-    "RUE":" Alexandre-Dumas (rue) ",
+    "RUE":"Alexandre-Dumas (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9602,7 +9576,33 @@
        "coordinates":  [ 2.319077,48.880866 ]
     },
     "properties": {
-    "RUE":" Andrieux (rue) ",
+    "RUE":"Andrieux (rue) ",
+    "COMMUNE":"Paris",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.31,48.87 ]
+    },
+    "properties": {
+    "RUE":"Antin (avenue d') (actuellement avenue Franklin-D.-Roosevelt)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9628,33 +9628,7 @@
        "coordinates":  [ 2.333185,48.868877 ]
     },
     "properties": {
-    "RUE":" Antin (avenue d') ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.333185,48.868877 ]
-    },
-    "properties": {
-    "RUE":" Antin (rue d') ",
+    "RUE":"Antin (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9680,7 +9654,7 @@
        "coordinates":  [ 2.362852,48.881841 ]
     },
     "properties": {
-    "RUE":" Aqueduc (rue de l') ",
+    "RUE":"Aqueduc (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9706,7 +9680,7 @@
        "coordinates":  [ 2.323957,48.872652 ]
     },
     "properties": {
-    "RUE":" Arcade (rue de l') ",
+    "RUE":"Arcade (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9732,7 +9706,7 @@
        "coordinates":  [ 2.355494,48.858592 ]
     },
     "properties": {
-    "RUE":" Archives (rue des) ",
+    "RUE":"Archives (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9758,7 +9732,7 @@
        "coordinates":  [ 2.307002,48.873312 ]
     },
     "properties": {
-    "RUE":" Artois (rue d') ",
+    "RUE":"Artois (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9784,7 +9758,7 @@
        "coordinates":  [ 2.300816,48.873951 ]
     },
     "properties": {
-    "RUE":" Balzac (rue) ",
+    "RUE":"Balzac (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9810,7 +9784,7 @@
        "coordinates":  [ 2.340613,48.867533 ]
     },
     "properties": {
-    "RUE":" Banque (rue de la) ",
+    "RUE":"Banque (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9836,7 +9810,7 @@
        "coordinates":  [ 2.368412,48.857255 ]
     },
     "properties": {
-    "RUE":" Beaumarchais (boulevard) ",
+    "RUE":"Beaumarchais (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9862,7 +9836,7 @@
        "coordinates":  [ 2.349775,48.869263 ]
     },
     "properties": {
-    "RUE":" Beauregard (rue) ",
+    "RUE":"Beauregard (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9888,7 +9862,7 @@
        "coordinates":  [ 2.39771,48.846531 ]
     },
     "properties": {
-    "RUE":" Bel-Air (rue du) ",
+    "RUE":"Bel-Air (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9914,7 +9888,7 @@
        "coordinates":  [ 2.347102,48.87787 ]
     },
     "properties": {
-    "RUE":" Bellefond (rue de) ",
+    "RUE":"Bellefond (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9940,7 +9914,7 @@
        "coordinates":  [ 2.390942,48.875382 ]
     },
     "properties": {
-    "RUE":" Belleville (rue de) ",
+    "RUE":"Belleville (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9963,10 +9937,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310735,48.867207 ]
+       "coordinates":  [  2.33,48.88 ]
     },
     "properties": {
-    "RUE":" Berlin (rue de) ",
+    "RUE":"Berlin (rue de) (actuellement rue de Liège)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -9992,7 +9966,7 @@
        "coordinates":  [ 2.339296,48.885769 ]
     },
     "properties": {
-    "RUE":" Berthe (rue) ",
+    "RUE":"Berthe (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10018,7 +9992,7 @@
        "coordinates":  [ 2.333404,48.853281 ]
     },
     "properties": {
-    "RUE":" Bonaparte (rue) ",
+    "RUE":"Bonaparte (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10044,7 +10018,7 @@
        "coordinates":  [ 2.377031,48.851817 ]
     },
     "properties": {
-    "RUE":" Bonne-Graine (passage de la) ",
+    "RUE":"Bonne-Graine (passage de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10070,7 +10044,7 @@
        "coordinates":  [ 2.344681,48.859439 ]
     },
     "properties": {
-    "RUE":" Bourdonnais (rue des) ",
+    "RUE":"Bourdonnais (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10096,7 +10070,7 @@
        "coordinates":  [ 2.3175,48.857775 ]
     },
     "properties": {
-    "RUE":" Bourgogne (rue de) ",
+    "RUE":"Bourgogne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10122,7 +10096,7 @@
        "coordinates":  [ 2.319062,48.884831 ]
     },
     "properties": {
-    "RUE":" Boursault (rue) ",
+    "RUE":"Boursault (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10148,7 +10122,7 @@
        "coordinates":  [ 2.349666,48.827742 ]
     },
     "properties": {
-    "RUE":" Butte-aux-Cailles (rue de la) ",
+    "RUE":"Butte-aux-Cailles (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10174,7 +10148,7 @@
        "coordinates":  [ 2.360489,48.882674 ]
     },
     "properties": {
-    "RUE":" Cail (rue) ",
+    "RUE":"Cail (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10200,7 +10174,7 @@
        "coordinates":  [ 2.310899,48.885196 ]
     },
     "properties": {
-    "RUE":" Cardinet (rue) ",
+    "RUE":"Cardinet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10226,7 +10200,7 @@
        "coordinates":  [ 2.288623,48.874621 ]
     },
     "properties": {
-    "RUE":" Chalgrin (rue) ",
+    "RUE":"Chalgrin (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10252,7 +10226,7 @@
        "coordinates":  [ 2.383704,48.846918 ]
     },
     "properties": {
-    "RUE":" Chaligny (rue) ",
+    "RUE":"Chaligny (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10278,7 +10252,7 @@
        "coordinates":  [ 2.308342,48.855248 ]
     },
     "properties": {
-    "RUE":" Chevert (rue) ",
+    "RUE":"Chevert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10304,7 +10278,7 @@
        "coordinates":  [ 2.295433,48.846366 ]
     },
     "properties": {
-    "RUE":" Commerce (rue du) ",
+    "RUE":"Commerce (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10330,7 +10304,7 @@
        "coordinates":  [ 2.346839,48.873465 ]
     },
     "properties": {
-    "RUE":" Conservatoire (rue du) ",
+    "RUE":"Conservatoire (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10356,7 +10330,7 @@
        "coordinates":  [ 2.27926,48.861059 ]
     },
     "properties": {
-    "RUE":" Cortambert (rue) ",
+    "RUE":"Cortambert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10382,7 +10356,7 @@
        "coordinates":  [ 2.306904,48.880124 ]
     },
     "properties": {
-    "RUE":" Courcelles (boulevard de) ",
+    "RUE":"Courcelles (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10408,7 +10382,7 @@
        "coordinates":  [ 2.341664,48.881822 ]
     },
     "properties": {
-    "RUE":" Cretet (rue) ",
+    "RUE":"Cretet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10434,7 +10408,7 @@
        "coordinates":  [ 1.977247,50.041361 ]
     },
     "properties": {
-    "RUE":" Delatour (rue) ",
+    "RUE":"Delatour (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10460,7 +10434,7 @@
        "coordinates":  [ 2.340516,48.873536 ]
     },
     "properties": {
-    "RUE":" Drouot (rue) ",
+    "RUE":"Drouot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10486,7 +10460,7 @@
        "coordinates":  [ 2.347523,48.881808 ]
     },
     "properties": {
-    "RUE":" Dunkerque (rue de) ",
+    "RUE":"Dunkerque (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10512,7 +10486,7 @@
        "coordinates":  [ 2.307002,48.873312 ]
     },
     "properties": {
-    "RUE":" Ecuries-d'Artois (rue des) ",
+    "RUE":"Ecuries-d'Artois (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10538,7 +10512,7 @@
        "coordinates":  [ 2.326543,48.840764 ]
     },
     "properties": {
-    "RUE":" Edgar-Quinet (boulevard) ",
+    "RUE":"Edgar-Quinet (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10564,7 +10538,7 @@
        "coordinates":  [ 2.379757,48.850598 ]
     },
     "properties": {
-    "RUE":" Faubourg-Saint-Antoine (rue du) ",
+    "RUE":"Faubourg-Saint-Antoine (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10590,7 +10564,7 @@
        "coordinates":  [ 2.273191,48.867094 ]
     },
     "properties": {
-    "RUE":" Flandrin (boulevard) ",
+    "RUE":"Flandrin (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10668,7 +10642,7 @@
        "coordinates":  [ 2.306202,48.84634 ]
     },
     "properties": {
-    "RUE":" Garibaldi (boulevard) ",
+    "RUE":"Garibaldi (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10694,7 +10668,7 @@
        "coordinates":  [ 2.353281,48.834848 ]
     },
     "properties": {
-    "RUE":" Gobelins (avenue des) ",
+    "RUE":"Gobelins (avenue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10720,7 +10694,7 @@
        "coordinates":  [ 2.342109,48.854737 ]
     },
     "properties": {
-    "RUE":" Grands-Augustins (quai des) ",
+    "RUE":"Grands-Augustins (quai des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10746,7 +10720,7 @@
        "coordinates":  [ 2.316314,48.857751 ]
     },
     "properties": {
-    "RUE":" Grenelle (rue de) ",
+    "RUE":"Grenelle (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10772,7 +10746,7 @@
        "coordinates":  [ 2.353423,48.863002 ]
     },
     "properties": {
-    "RUE":" Grenier-Saint-Lazare (rue du) ",
+    "RUE":"Grenier-Saint-Lazare (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10795,10 +10769,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.318426,48.879608 ]
+       "coordinates":  [ 2.32,48.88 ]
     },
     "properties": {
-    "RUE":"Rue de Naples (rue de) ",
+    "RUE":"Hambourg (rue de) (actuellement rue de Naples) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10824,7 +10798,7 @@
        "coordinates":  [ 2.315423,48.875111 ]
     },
     "properties": {
-    "RUE":" Haussmann (boulevard) ",
+    "RUE":"Haussmann (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10850,7 +10824,7 @@
        "coordinates":  [ 2.350499,48.87406 ]
     },
     "properties": {
-    "RUE":" Hauteville (rue d') ",
+    "RUE":"Hauteville (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10876,7 +10850,7 @@
        "coordinates":  [ 2.364596,48.85177 ]
     },
     "properties": {
-    "RUE":" Henri-IV (boulevard) ",
+    "RUE":"Henri-IV (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10902,7 +10876,7 @@
        "coordinates":  [ 2.272965,48.863976 ]
     },
     "properties": {
-    "RUE":" Henri-Martin (avenue) ",
+    "RUE":"Henri-Martin (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10925,10 +10899,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.272965,48.863976 ]
+       "coordinates":  [  2.28,48.86 ]
     },
     "properties": {
-    "RUE":" Henri-Martin (rue) ",
+    "RUE":"Henri-Martin (rue) (actuellement rue Massenet)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10954,7 +10928,7 @@
        "coordinates":  [ 2.287261,48.843361 ]
     },
     "properties": {
-    "RUE":" Javel (rue de) ",
+    "RUE":"Javel (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -10980,7 +10954,7 @@
        "coordinates":  [ 2.366646,48.865547 ]
     },
     "properties": {
-    "RUE":" Jeu-de-Boules (passage du) ",
+    "RUE":"Jeu-de-Boules (passage du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11006,7 +10980,7 @@
        "coordinates":  [ 2.265355,48.842528 ]
     },
     "properties": {
-    "RUE":" Jouvenet (rue) ",
+    "RUE":"Jouvenet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11032,7 +11006,7 @@
        "coordinates":  [ 2.384021,48.870502 ]
     },
     "properties": {
-    "RUE":" Julien-Lacroix (rue) ",
+    "RUE":"Julien-Lacroix (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11058,7 +11032,7 @@
        "coordinates":  [ 2.367787,48.884583 ]
     },
     "properties": {
-    "RUE":" Kabylie (rue de) ",
+    "RUE":"Kabylie (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11084,7 +11058,7 @@
        "coordinates":  [ 2.318646,48.875544 ]
     },
     "properties": {
-    "RUE":" Laborde (rue de) ",
+    "RUE":"Laborde (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11110,7 +11084,7 @@
        "coordinates":  [ 2.3595,48.88006 ]
     },
     "properties": {
-    "RUE":" La-Fayette (rue) ",
+    "RUE":"La-Fayette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11136,7 +11110,7 @@
        "coordinates":  [ 2.354918,48.887959 ]
     },
     "properties": {
-    "RUE":" Laghouat (rue de) ",
+    "RUE":"Laghouat (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11162,7 +11136,7 @@
        "coordinates":  [ 2.341723,48.876472 ]
     },
     "properties": {
-    "RUE":" Lamartine (rue) ",
+    "RUE":"Lamartine (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11188,7 +11162,7 @@
        "coordinates":  [ 2.343127,48.879311 ]
     },
     "properties": {
-    "RUE":" La-Tour-d'Auvergne (rue de) ",
+    "RUE":"La-Tour-d'Auvergne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11214,7 +11188,7 @@
        "coordinates":  [ 2.309844,48.858417 ]
     },
     "properties": {
-    "RUE":" La-Tour-Maubourg (boulevard de) ",
+    "RUE":"La-Tour-Maubourg (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11240,7 +11214,7 @@
        "coordinates":  [ 2.308506,48.857395 ]
     },
     "properties": {
-    "RUE":" La-Tour-Maubourg (square de) ",
+    "RUE":"La-Tour-Maubourg (square de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11266,7 +11240,7 @@
        "coordinates":  [ 2.347329,48.842499 ]
     },
     "properties": {
-    "RUE":" Lhomond (rue) ",
+    "RUE":"Lhomond (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11292,7 +11266,7 @@
        "coordinates":  [ 2.312688,48.877578 ]
     },
     "properties": {
-    "RUE":" Lisbonne (rue de) ",
+    "RUE":"Lisbonne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11318,7 +11292,7 @@
        "coordinates":  [ 2.364471,48.881443 ]
     },
     "properties": {
-    "RUE":" Louis-Blanc (rue) ",
+    "RUE":"Louis-Blanc (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11344,7 +11318,7 @@
        "coordinates":  [ 2.331795,48.84884 ]
     },
     "properties": {
-    "RUE":" Madame (rue) ",
+    "RUE":"Madame (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11370,7 +11344,7 @@
        "coordinates":  [ 2.320229,48.878256 ]
     },
     "properties": {
-    "RUE":" Madrid (rue de) ",
+    "RUE":"Madrid (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11396,7 +11370,7 @@
        "coordinates":  [ 2.324072,48.834507 ]
     },
     "properties": {
-    "RUE":" Maine (avenue du) ",
+    "RUE":"Maine (avenue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11422,7 +11396,7 @@
        "coordinates":  [ 2.283765,48.875141 ]
     },
     "properties": {
-    "RUE":" Malakoff (avenue de) ",
+    "RUE":"Malakoff (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11448,7 +11422,7 @@
        "coordinates":  [ 2.307152,48.885501 ]
     },
     "properties": {
-    "RUE":" Malesherbes (boulevard) ",
+    "RUE":"Malesherbes (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11474,7 +11448,7 @@
        "coordinates":  [ 2.339835,48.891239 ]
     },
     "properties": {
-    "RUE":" Marcadet (rue) ",
+    "RUE":"Marcadet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11500,7 +11474,7 @@
        "coordinates":  [ 2.339935,48.878979 ]
     },
     "properties": {
-    "RUE":" Martyrs (rue des) ",
+    "RUE":"Martyrs (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11526,7 +11500,7 @@
        "coordinates":  [ 2.31414,48.848512 ]
     },
     "properties": {
-    "RUE":" Masseran (rue) ",
+    "RUE":"Masseran (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11552,7 +11526,7 @@
        "coordinates":  [ 2.260497,48.843325 ]
     },
     "properties": {
-    "RUE":" Michel-Ange (rue) ",
+    "RUE":"Michel-Ange (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11578,7 +11552,7 @@
        "coordinates":  [ 2.315861,48.875702 ]
     },
     "properties": {
-    "RUE":" Miromesnil (rue de) ",
+    "RUE":"Miromesnil (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11604,7 +11578,7 @@
        "coordinates":  [ 2.311263,48.878086 ]
     },
     "properties": {
-    "RUE":" Monceau (rue de) ",
+    "RUE":"Monceau (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11630,7 +11604,7 @@
        "coordinates":  [ 2.305758,48.86649 ]
     },
     "properties": {
-    "RUE":" Montaigne (avenue) ",
+    "RUE":"Montaigne (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11656,7 +11630,7 @@
        "coordinates":  [ 2.322951,48.883231 ]
     },
     "properties": {
-    "RUE":" Mont-Dore (rue du) ",
+    "RUE":"Mont-Dore (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11682,7 +11656,7 @@
        "coordinates":  [ 2.343725,48.868058 ]
     },
     "properties": {
-    "RUE":" Montmartre (rue) ",
+    "RUE":"Montmartre (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11708,7 +11682,7 @@
        "coordinates":  [ 2.262425,48.851578 ]
     },
     "properties": {
-    "RUE":" Montmorency (boulevard de) ",
+    "RUE":"Montmorency (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11734,7 +11708,7 @@
        "coordinates":  [ 2.354983,48.86305 ]
     },
     "properties": {
-    "RUE":" Montmorency (rue de) ",
+    "RUE":"Montmorency (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11760,7 +11734,7 @@
        "coordinates":  [ 2.325946,48.84341 ]
     },
     "properties": {
-    "RUE":" Montparnasse (boulevard du) ",
+    "RUE":"Montparnasse (boulevard du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11786,7 +11760,7 @@
        "coordinates":  [ 2.364569,48.848604 ]
     },
     "properties": {
-    "RUE":" Morland (boulevard) ",
+    "RUE":"Morland (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11812,7 +11786,7 @@
        "coordinates":  [ 2.269154,48.853994 ]
     },
     "properties": {
-    "RUE":" Mozart (rue) ",
+    "RUE":"Mozart (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11838,7 +11812,7 @@
        "coordinates":  [ 2.307635,48.877893 ]
     },
     "properties": {
-    "RUE":" Murillo (rue) ",
+    "RUE":"Murillo (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11864,7 +11838,7 @@
        "coordinates":  [ 2.318426,48.879608 ]
     },
     "properties": {
-    "RUE":" Naples (rue de) ",
+    "RUE":"Naples (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11890,7 +11864,7 @@
        "coordinates":  [ 2.338558,48.879656 ]
     },
     "properties": {
-    "RUE":" Navarin (rue de) ",
+    "RUE":"Navarin (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11916,7 +11890,7 @@
        "coordinates":  [ 2.339514,48.840652 ]
     },
     "properties": {
-    "RUE":" Nicole (rue) ",
+    "RUE":"Nicole (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11942,7 +11916,7 @@
        "coordinates":  [ 2.337269,48.878746 ]
     },
     "properties": {
-    "RUE":" Notre-Dame-de-Lorette (rue) ",
+    "RUE":"Notre-Dame-de-Lorette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11968,7 +11942,7 @@
        "coordinates":  [ 2.358067,48.867544 ]
     },
     "properties": {
-    "RUE":" Notre-Dame-de-Nazareth (rue) ",
+    "RUE":"Notre-Dame-de-Nazareth (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -11994,7 +11968,7 @@
        "coordinates":  [ 2.376698,48.86542 ]
     },
     "properties": {
-    "RUE":" Oberkampf (rue) ",
+    "RUE":"Oberkampf (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12020,7 +11994,7 @@
        "coordinates":  [ 2.336319,48.837897 ]
     },
     "properties": {
-    "RUE":" Observatoire (avenue de l') ",
+    "RUE":"Observatoire (avenue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12046,7 +12020,7 @@
        "coordinates":  [ 2.344048,48.892512 ]
     },
     "properties": {
-    "RUE":" Ordener (rue) ",
+    "RUE":"Ordener (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12072,7 +12046,7 @@
        "coordinates":  [ 2.397575,48.866827 ]
     },
     "properties": {
-    "RUE":" Orfila (rue) ",
+    "RUE":"Orfila (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12098,7 +12072,7 @@
        "coordinates":  [ 2.343377,48.88377 ]
     },
     "properties": {
-    "RUE":" Orsel (rue d') ",
+    "RUE":"Orsel (rue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12124,7 +12098,7 @@
        "coordinates":  [ 2.317852,48.850155 ]
     },
     "properties": {
-    "RUE":" Oudinot (rue) ",
+    "RUE":"Oudinot (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12150,7 +12124,7 @@
        "coordinates":  [ 2.317968,48.835341 ]
     },
     "properties": {
-    "RUE":" Ouest (rue de l') ",
+    "RUE":"Ouest (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12176,7 +12150,7 @@
        "coordinates":  [ 2.375635,48.864029 ]
     },
     "properties": {
-    "RUE":" Parmentier (avenue) ",
+    "RUE":"Parmentier (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12202,7 +12176,7 @@
        "coordinates":  [ 2.359653,48.86274 ]
     },
     "properties": {
-    "RUE":" Pastourelle (rue) ",
+    "RUE":"Pastourelle (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12228,7 +12202,7 @@
        "coordinates":  [ 2.362293,48.858097 ]
     },
     "properties": {
-    "RUE":" Payenne (rue) ",
+    "RUE":"Payenne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12254,7 +12228,7 @@
        "coordinates":  [ 2.295772,48.883921 ]
     },
     "properties": {
-    "RUE":" Pereire (boulevard) ",
+    "RUE":"Pereire (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12277,10 +12251,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.295772,48.883921 ]
+       "coordinates":  [ 2.3,48.88 ]
     },
     "properties": {
-    "RUE":" Pereire (place) ",
+    "RUE":"Pereire (place) (actuellement place du Maréchal-Juin)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12306,7 +12280,7 @@
        "coordinates":  [ 2.341568,48.860365 ]
     },
     "properties": {
-    "RUE":" Perrault (rue) ",
+    "RUE":"Perrault (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12332,7 +12306,7 @@
        "coordinates":  [ 2.351311,48.873662 ]
     },
     "properties": {
-    "RUE":" Petites-Ecuries (rue des) ",
+    "RUE":"Petites-Ecuries (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12358,7 +12332,7 @@
        "coordinates":  [ 2.287749,48.877081 ]
     },
     "properties": {
-    "RUE":" Poisson (rue) ",
+    "RUE":"Poisson (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12384,7 +12358,7 @@
        "coordinates":  [ 2.35251,48.849157 ]
     },
     "properties": {
-    "RUE":" Poissy (rue de) ",
+    "RUE":"Poissy (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12410,7 +12384,7 @@
        "coordinates":  [ 2.278491,48.864926 ]
     },
     "properties": {
-    "RUE":" Pompe (rue de la) ",
+    "RUE":"Pompe (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12436,7 +12410,7 @@
        "coordinates":  [ 2.307997,48.837646 ]
     },
     "properties": {
-    "RUE":" Procession (rue de la) ",
+    "RUE":"Procession (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12462,7 +12436,7 @@
        "coordinates":  [ 2.33539,48.8742 ]
     },
     "properties": {
-    "RUE":" Provence (rue de) ",
+    "RUE":"Provence (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12488,7 +12462,7 @@
        "coordinates":  [ 2.33294,48.865113 ]
     },
     "properties": {
-    "RUE":" Pyramides (rue des) ",
+    "RUE":"Pyramides (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12514,7 +12488,7 @@
        "coordinates":  [ 2.348046,48.86253 ]
     },
     "properties": {
-    "RUE":" Rambuteau (rue) ",
+    "RUE":"Rambuteau (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12540,7 +12514,7 @@
        "coordinates":  [ 2.346276,48.889103 ]
     },
     "properties": {
-    "RUE":" Ramey (rue) ",
+    "RUE":"Ramey (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12566,7 +12540,7 @@
        "coordinates":  [ 2.271948,48.855183 ]
     },
     "properties": {
-    "RUE":" Ranelagh (avenue du) ",
+    "RUE":"Ranelagh (avenue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12592,7 +12566,7 @@
        "coordinates":  [ 2.281275,48.85599 ]
     },
     "properties": {
-    "RUE":" Raynouard (rue) ",
+    "RUE":"Raynouard (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12618,7 +12592,7 @@
        "coordinates":  [ 2.394639,48.839239 ]
     },
     "properties": {
-    "RUE":" Reuilly (boulevard de) ",
+    "RUE":"Reuilly (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12644,7 +12618,7 @@
        "coordinates":  [ 2.389852,48.844692 ]
     },
     "properties": {
-    "RUE":" Reuilly (rue de) ",
+    "RUE":"Reuilly (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12670,7 +12644,7 @@
        "coordinates":  [ 2.338943,48.869485 ]
     },
     "properties": {
-    "RUE":" Richelieu (rue de) ",
+    "RUE":"Richelieu (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12696,7 +12670,7 @@
        "coordinates":  [ 2.338081,48.861863 ]
     },
     "properties": {
-    "RUE":" Rivoli (rue de) ",
+    "RUE":"Rivoli (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12722,7 +12696,7 @@
        "coordinates":  [ 2.344477,48.883146 ]
     },
     "properties": {
-    "RUE":" Rochechouart (boulevard de) ",
+    "RUE":"Rochechouart (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12748,7 +12722,7 @@
        "coordinates":  [ 2.345949,48.87976 ]
     },
     "properties": {
-    "RUE":" Rochechouart (rue de) ",
+    "RUE":"Rochechouart (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12774,7 +12748,7 @@
        "coordinates":  [ 2.28291,48.865144 ]
     },
     "properties": {
-    "RUE":" Sablons (rue des) ",
+    "RUE":"Sablons (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12800,7 +12774,33 @@
        "coordinates":  [ 2.351137,48.866753 ]
     },
     "properties": {
-    "RUE":" Saint-Denis (rue) ",
+    "RUE":"Saint-Denis (rue) ",
+    "COMMUNE":"Paris",
+    "FIELD5":"",
+    "FIELD6":"",
+    "FIELD7":"",
+    "FIELD8":"",
+    "FIELD9":"",
+    "FIELD10":"",
+    "FIELD11":"",
+    "FIELD12":"",
+    "FIELD13":"",
+    "FIELD14":"",
+    "FIELD15":"",
+    "FIELD16":"",
+    "FIELD17":"",
+    "FIELD18":"",
+    "FIELD19":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3,48.86 ]
+    },
+    "properties": {
+    "RUE":"Saint-Dominique (passage) (actuellement rue Augereau)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12826,33 +12826,7 @@
        "coordinates":  [ 2.309844,48.859852 ]
     },
     "properties": {
-    "RUE":" Saint-Dominique (passage) ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.309844,48.859852 ]
-    },
-    "properties": {
-    "RUE":" Saint-Dominique (rue) ",
+    "RUE":"Saint-Dominique (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12878,7 +12852,7 @@
        "coordinates":  [ 2.32507,48.856861 ]
     },
     "properties": {
-    "RUE":" Saint-Germain (boulevard) ",
+    "RUE":"Saint-Germain (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12904,7 +12878,7 @@
        "coordinates":  [ 2.33325,48.87679 ]
     },
     "properties": {
-    "RUE":" Saint-Lazare (rue) ",
+    "RUE":"Saint-Lazare (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12930,7 +12904,7 @@
        "coordinates":  [ 2.340622,48.870451 ]
     },
     "properties": {
-    "RUE":" Saint-Marc (rue) ",
+    "RUE":"Saint-Marc (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12956,7 +12930,7 @@
        "coordinates":  [ 2.340609,48.846495 ]
     },
     "properties": {
-    "RUE":" Saint-Michel (boulevard) ",
+    "RUE":"Saint-Michel (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -12982,7 +12956,7 @@
        "coordinates":  [ 2.363523,48.862578 ]
     },
     "properties": {
-    "RUE":" Saintonge (rue de) ",
+    "RUE":"Saintonge (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13008,7 +12982,7 @@
        "coordinates":  [ 2.327343,48.892211 ]
     },
     "properties": {
-    "RUE":" Saint-Ouen (avenue de) ",
+    "RUE":"Saint-Ouen (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13034,7 +13008,7 @@
        "coordinates":  [ 2.32543,48.848758 ]
     },
     "properties": {
-    "RUE":" Saint-Placide (rue) ",
+    "RUE":"Saint-Placide (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13060,7 +13034,7 @@
        "coordinates":  [ 2.332396,48.865739 ]
     },
     "properties": {
-    "RUE":" Saint-Roch (rue) ",
+    "RUE":"Saint-Roch (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13086,7 +13060,7 @@
        "coordinates":  [ 2.336685,48.851474 ]
     },
     "properties": {
-    "RUE":" Saint-Sulpice (rue) ",
+    "RUE":"Saint-Sulpice (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13112,7 +13086,7 @@
        "coordinates":  [ 2.277501,48.868328 ]
     },
     "properties": {
-    "RUE":" Spontini (rue) ",
+    "RUE":"Spontini (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13138,7 +13112,7 @@
        "coordinates":  [ 2.309383,48.860901 ]
     },
     "properties": {
-    "RUE":" Surcouf (rue) ",
+    "RUE":"Surcouf (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13164,7 +13138,7 @@
        "coordinates":  [ 2.335298,48.874972 ]
     },
     "properties": {
-    "RUE":" Taitbout (rue) ",
+    "RUE":"Taitbout (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13190,7 +13164,7 @@
        "coordinates":  [ 2.358615,48.863675 ]
     },
     "properties": {
-    "RUE":" Temple (rue du) ",
+    "RUE":"Temple (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13216,7 +13190,7 @@
        "coordinates":  [ 2.29171,48.879046 ]
     },
     "properties": {
-    "RUE":" Ternes (avenue des) ",
+    "RUE":"Ternes (avenue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13242,7 +13216,7 @@
        "coordinates":  [ 2.309589,48.885891 ]
     },
     "properties": {
-    "RUE":" Tocqueville (rue de) ",
+    "RUE":"Tocqueville (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13268,7 +13242,7 @@
        "coordinates":  [ 2.27918,48.861228 ]
     },
     "properties": {
-    "RUE":" Tour (rue de la) ",
+    "RUE":"Tour (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13294,7 +13268,7 @@
        "coordinates":  [ 2.373596,48.86702 ]
     },
     "properties": {
-    "RUE":" Trois-Bornes (rue des) ",
+    "RUE":"Trois-Bornes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13320,7 +13294,7 @@
        "coordinates":  [ 2.356858,48.865587 ]
     },
     "properties": {
-    "RUE":" Turbigo (rue de) ",
+    "RUE":"Turbigo (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13346,7 +13320,7 @@
        "coordinates":  [ 2.364683,48.8604 ]
     },
     "properties": {
-    "RUE":" Turenne (rue de) ",
+    "RUE":"Turenne (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13372,7 +13346,7 @@
        "coordinates":  [ 2.302416,48.839695 ]
     },
     "properties": {
-    "RUE":" Vaugirard (rue de) ",
+    "RUE":"Vaugirard (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13398,7 +13372,7 @@
        "coordinates":  [ 2.268942,48.842908 ]
     },
     "properties": {
-    "RUE":" Versailles (avenue de) ",
+    "RUE":"Versailles (avenue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13424,7 +13398,7 @@
        "coordinates":  [ 2.33536,48.875159 ]
     },
     "properties": {
-    "RUE":" Victoire (rue de la) ",
+    "RUE":"Victoire (rue de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13450,7 +13424,7 @@
        "coordinates":  [ 2.283774,48.869131 ]
     },
     "properties": {
-    "RUE":" Victor-Hugo (avenue) ",
+    "RUE":"Victor-Hugo (avenue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13476,7 +13450,7 @@
        "coordinates":  [ 2.275559,48.855923 ]
     },
     "properties": {
-    "RUE":" Vignes (rue des) ",
+    "RUE":"Vignes (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13502,7 +13476,7 @@
        "coordinates":  [ 2.370574,48.878667 ]
     },
     "properties": {
-    "RUE":" Villette (boulevard de la) ",
+    "RUE":"Villette (boulevard de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13528,7 +13502,7 @@
        "coordinates":  [ 2.40488,48.847221 ]
     },
     "properties": {
-    "RUE":" Vincennes (cours de) ",
+    "RUE":"Vincennes (cours de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13554,7 +13528,7 @@
        "coordinates":  [ 2.293294,48.847752 ]
     },
     "properties": {
-    "RUE":" Violet (rue) ",
+    "RUE":"Violet (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13580,33 +13554,7 @@
        "coordinates":  [ 2.340313,48.869443 ]
     },
     "properties": {
-    "RUE":" Vivienne (rue) ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.296722,48.868133 ]
-    },
-    "properties": {
-    "RUE":"voie de paris",
+    "RUE":"Vivienne (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13632,7 +13580,7 @@
        "coordinates":  [ 2.381537,48.85715 ]
     },
     "properties": {
-    "RUE":" Voltaire (boulevard) ",
+    "RUE":"Voltaire (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13658,7 +13606,7 @@
        "coordinates":  [ 2.330986,48.858874 ]
     },
     "properties": {
-    "RUE":" Voltaire (quai) ",
+    "RUE":"Voltaire (quai) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13684,7 +13632,7 @@
        "coordinates":  [ 2.266784,48.853315 ]
     },
     "properties": {
-    "RUE":" Yvette (rue de l') ",
+    "RUE":"Yvette (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13710,7 +13658,7 @@
        "coordinates":  [ 2.333185,48.868877 ]
     },
     "properties": {
-    "RUE":" Antin (avenue d') ",
+    "RUE":"Antin (avenue d') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13736,7 +13684,7 @@
        "coordinates":  [ 2.355494,48.858592 ]
     },
     "properties": {
-    "RUE":" Archives (rue des) ",
+    "RUE":"Archives (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13762,7 +13710,7 @@
        "coordinates":  [ 2.368412,48.857255 ]
     },
     "properties": {
-    "RUE":" Beaumarchais (boulevard) ",
+    "RUE":"Beaumarchais (boulevard) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13788,7 +13736,7 @@
        "coordinates":  [ 2.333404,48.853281 ]
     },
     "properties": {
-    "RUE":" Bonaparte (rue) ",
+    "RUE":"Bonaparte (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13814,7 +13762,7 @@
        "coordinates":  [ 2.308342,48.855248 ]
     },
     "properties": {
-    "RUE":" Chevert (rue) ",
+    "RUE":"Chevert (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13840,7 +13788,7 @@
        "coordinates":  [ 2.380763,48.847739 ]
     },
     "properties": {
-    "RUE":" Crozatier (rue) ",
+    "RUE":"Crozatier (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13866,7 +13814,7 @@
        "coordinates":  [ 2.374537,48.836328 ]
     },
     "properties": {
-    "RUE":" Gare (quai de la) ",
+    "RUE":"Gare (quai de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13889,10 +13837,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.385109,47.768244 ]
+       "coordinates":  [ 2.3,48.88 ]
     },
     "properties": {
-    "RUE":" Hambourg (rue de) ",
+    "RUE":"Hambourg (rue de) (actuellement rue de Naples)  ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13918,7 +13866,7 @@
        "coordinates":  [ 2.3595,48.88006 ]
     },
     "properties": {
-    "RUE":" La-Fayette (rue) ",
+    "RUE":"La-Fayette (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13944,7 +13892,7 @@
        "coordinates":  [ 2.309844,48.858417 ]
     },
     "properties": {
-    "RUE":" La-Tour-Maubourg (boulevard de) ",
+    "RUE":"La-Tour-Maubourg (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13970,7 +13918,7 @@
        "coordinates":  [ 2.308506,48.857395 ]
     },
     "properties": {
-    "RUE":" La-Tour-Maubourg (square de) ",
+    "RUE":"La-Tour-Maubourg (square de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -13996,7 +13944,7 @@
        "coordinates":  [ 2.356543,48.876029 ]
     },
     "properties": {
-    "RUE":" Magenta (boulevard de) ",
+    "RUE":"Magenta (boulevard de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14019,10 +13967,10 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.099312,48.396746 ]
+       "coordinates":  [ 2.3768665000000055,48.871757 ]
     },
     "properties": {
-    "RUE":" Pierre-Nys (rue) ",
+    "RUE":"Pierre-Nys (rue) (actuellement rue Louis-Bonnet)",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14048,7 +13996,7 @@
        "coordinates":  [ 2.33294,48.865113 ]
     },
     "properties": {
-    "RUE":" Pyramides (rue des) ",
+    "RUE":"Pyramides (rue des) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14074,7 +14022,7 @@
        "coordinates":  [ 2.319996,48.878055 ]
     },
     "properties": {
-    "RUE":" Rocher (rue du) ",
+    "RUE":"Rocher (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14100,7 +14048,7 @@
        "coordinates":  [ 2.309844,48.859852 ]
     },
     "properties": {
-    "RUE":" Saint-Dominique (rue) ",
+    "RUE":"Saint-Dominique (rue) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14126,7 +14074,7 @@
        "coordinates":  [ 2.311901,48.887285 ]
     },
     "properties": {
-    "RUE":" Saussure (rue de) ",
+    "RUE":"Saussure (rue de) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14152,7 +14100,7 @@
        "coordinates":  [ 2.358615,48.863675 ]
     },
     "properties": {
-    "RUE":" Temple (rue du) ",
+    "RUE":"Temple (rue du) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14178,33 +14126,7 @@
        "coordinates":  [ 2.370574,48.878667 ]
     },
     "properties": {
-    "RUE":" Villette (boulevard de la) ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.296722,48.868133 ]
-    },
-    "properties": {
-    "RUE":"voie de paris",
+    "RUE":"Villette (boulevard de la) ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14256,33 +14178,7 @@
        "coordinates":  [ 2.323957,48.872652 ]
     },
     "properties": {
-    "RUE":" Arcade (rue de l') ",
-    "COMMUNE":"Paris",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 2.296722,48.868133 ]
-    },
-    "properties": {
-    "RUE":"voie de paris",
+    "RUE":"Arcade (rue de l') ",
     "COMMUNE":"Paris",
     "FIELD5":"",
     "FIELD6":"",
@@ -14335,7 +14231,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Malakoff ",
+    "COMMUNE":"Malakoff ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14361,7 +14257,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Marly-la-Ville ",
+    "COMMUNE":"Marly-la-Ville ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14387,7 +14283,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Marly-le-Roi",
+    "COMMUNE":"Marly-le-Roi",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14413,7 +14309,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Melun",
+    "COMMUNE":"Melun",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14439,7 +14335,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meudon",
+    "COMMUNE":"Meudon",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14465,7 +14361,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meulan",
+    "COMMUNE":"Meulan",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14491,7 +14387,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montereau-Fault-Yonne",
+    "COMMUNE":"Montereau-Fault-Yonne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14517,7 +14413,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montfort-l'Amaury",
+    "COMMUNE":"Montfort-l'Amaury",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14543,7 +14439,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montmachoux",
+    "COMMUNE":"Montmachoux",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14569,7 +14465,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montreuil",
+    "COMMUNE":"Montreuil",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14595,7 +14491,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montrouge",
+    "COMMUNE":"Montrouge",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14621,7 +14517,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nanterre",
+    "COMMUNE":"Nanterre",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14647,7 +14543,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-Plaisance",
+    "COMMUNE":"Neuilly-Plaisance",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14673,7 +14569,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-sur-Seine",
+    "COMMUNE":"Neuilly-sur-Seine",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14699,7 +14595,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nogent-sur-Marne",
+    "COMMUNE":"Nogent-sur-Marne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14725,7 +14621,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Noisy-le-Sec",
+    "COMMUNE":"Noisy-le-Sec",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14751,7 +14647,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Ormesson",
+    "COMMUNE":"Ormesson",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14777,7 +14673,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Poissy",
+    "COMMUNE":"Poissy",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14803,7 +14699,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Pontoise",
+    "COMMUNE":"Pontoise",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14829,7 +14725,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Provins",
+    "COMMUNE":"Provins",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14855,7 +14751,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rueil-Malmaison",
+    "COMMUNE":"Rueil-Malmaison",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14881,7 +14777,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Germain-en-Laye",
+    "COMMUNE":"Saint-Germain-en-Laye",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14907,7 +14803,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Suresnes",
+    "COMMUNE":"Suresnes",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14933,7 +14829,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Versailles",
+    "COMMUNE":"Versailles",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14959,7 +14855,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villennes-sur-Seine",
+    "COMMUNE":"Villennes-sur-Seine",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -14985,7 +14881,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villiers-sur-Marne",
+    "COMMUNE":"Villiers-sur-Marne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15011,7 +14907,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vincennes",
+    "COMMUNE":"Vincennes",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15037,7 +14933,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vitry-sur-Seine",
+    "COMMUNE":"Vitry-sur-Seine",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15063,7 +14959,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Antony",
+    "COMMUNE":"Antony",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15089,7 +14985,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Aubervilliers",
+    "COMMUNE":"Aubervilliers",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15115,7 +15011,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bois-Colombes",
+    "COMMUNE":"Bois-Colombes",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15141,7 +15037,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Boulogne-Billancourt",
+    "COMMUNE":"Boulogne-Billancourt",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15167,7 +15063,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Brunoy",
+    "COMMUNE":"Brunoy",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15193,7 +15089,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontainebleau ",
+    "COMMUNE":"Fontainebleau ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15219,7 +15115,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontenay-aux-Roses",
+    "COMMUNE":"Fontenay-aux-Roses",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15245,7 +15141,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Franconville",
+    "COMMUNE":"Franconville",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15271,7 +15167,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" La Garenne-Colombes ",
+    "COMMUNE":"La Garenne-Colombes ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15297,7 +15193,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lagny-sur-Marne",
+    "COMMUNE":"Lagny-sur-Marne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15323,7 +15219,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meaux",
+    "COMMUNE":"Meaux",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15349,7 +15245,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Melun",
+    "COMMUNE":"Melun",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15375,7 +15271,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nanterre",
+    "COMMUNE":"Nanterre",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15401,7 +15297,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-sur-Seine",
+    "COMMUNE":"Neuilly-sur-Seine",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15427,7 +15323,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nogent-sur-Marne",
+    "COMMUNE":"Nogent-sur-Marne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15453,7 +15349,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Poissy",
+    "COMMUNE":"Poissy",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15479,7 +15375,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Ris-Orangis",
+    "COMMUNE":"Ris-Orangis",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15505,7 +15401,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rubelles",
+    "COMMUNE":"Rubelles",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15531,7 +15427,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rueil-Malmaison",
+    "COMMUNE":"Rueil-Malmaison",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15557,7 +15453,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Sannois",
+    "COMMUNE":"Sannois",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15583,7 +15479,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Taverny",
+    "COMMUNE":"Taverny",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15609,7 +15505,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villiers-sur-Marne",
+    "COMMUNE":"Villiers-sur-Marne",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15635,7 +15531,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vincennes",
+    "COMMUNE":"Vincennes",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15661,7 +15557,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Crisenoy",
+    "COMMUNE":"Crisenoy",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15687,7 +15583,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Abbeville (Somme) ",
+    "COMMUNE":"Abbeville (Somme) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15713,7 +15609,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Afrique ",
+    "COMMUNE":"Afrique ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15739,7 +15635,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Agen (Lot-et-Garonne) ",
+    "COMMUNE":"Agen (Lot-et-Garonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15765,7 +15661,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Alexandrie (Egypte) ",
+    "COMMUNE":"Alexandrie (Egypte) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15787,11 +15683,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 3.614241,49.595118 ]
+       "coordinates":  [ 10,51 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Allemagne ",
+    "COMMUNE":"Allemagne ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15817,7 +15713,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Altkirch (Haut-Rhin) ",
+    "COMMUNE":"Altkirch (Haut-Rhin) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15843,7 +15739,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Amsterdam (Pays-Bas) ",
+    "COMMUNE":"Amsterdam (Pays-Bas) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15869,7 +15765,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Angers (Maine-et-Loire) ",
+    "COMMUNE":"Angers (Maine-et-Loire) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15895,7 +15791,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Angleterre (Royaume-Uni) ",
+    "COMMUNE":"Angleterre (Royaume-Uni) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15921,7 +15817,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Annemasse (Haute-Savoie) ",
+    "COMMUNE":"Annemasse (Haute-Savoie) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15947,7 +15843,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Argenteuil (Val-d'Oise) ",
+    "COMMUNE":"Argenteuil (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15969,11 +15865,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.095881,49.440127 ]
+       "coordinates":  [ -64,-34 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Argentine ",
+    "COMMUNE":"Argentine ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -15999,7 +15895,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Audincourt (Doubs) ",
+    "COMMUNE":"Audincourt (Doubs) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16021,11 +15917,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.774871,47.38735 ]
+       "coordinates":  [ 14,48 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Autriche ",
+    "COMMUNE":"Autriche ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16051,7 +15947,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Baignes-Sainte-Radegonde (Charente) ",
+    "COMMUNE":"Baignes-Sainte-Radegonde (Charente) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16077,7 +15973,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bain-de-Bretagne (Ille-et-Vilaine) ",
+    "COMMUNE":"Bain-de-Bretagne (Ille-et-Vilaine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16103,7 +15999,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bar-le-Duc (Meuse) ",
+    "COMMUNE":"Bar-le-Duc (Meuse) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16129,7 +16025,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bayeux (Calvados) ",
+    "COMMUNE":"Bayeux (Calvados) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16155,7 +16051,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Beauchamp (Val-d'Oise) ",
+    "COMMUNE":"Beauchamp (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16177,11 +16073,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 3.022166,48.02963 ]
+       "coordinates":  [ 4.67,50.64 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Belgique ",
+    "COMMUNE":"Belgique ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16203,11 +16099,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 3.079969,45.781884 ]
+       "coordinates":  [ 20.466666666667,44.816666666667 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Belgrade (Serbie) ",
+    "COMMUNE":"Belgrade (Serbie) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16233,7 +16129,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bergerac (Dordogne) ",
+    "COMMUNE":"Bergerac (Dordogne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16259,7 +16155,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Berlise (Aisne) ",
+    "COMMUNE":"Berlise (Aisne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16281,11 +16177,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.401502,43.246671 ]
+       "coordinates":  [ 35.513055555556,33.886944444444 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Beyrouth (Liban) ",
+    "COMMUNE":"Beyrouth (Liban) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16311,7 +16207,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Billy (Calvados) ",
+    "COMMUNE":"Billy (Calvados) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16337,7 +16233,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bois-Colombes (Hauts-de-Seine) ",
+    "COMMUNE":"Bois-Colombes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16363,7 +16259,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Boisseaux (Loiret) ",
+    "COMMUNE":"Boisseaux (Loiret) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16389,7 +16285,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bordeaux (Gironde) ",
+    "COMMUNE":"Bordeaux (Gironde) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16415,7 +16311,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Boulogne-Billancourt (Hauts-de-Seine) ",
+    "COMMUNE":"Boulogne-Billancourt (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16441,7 +16337,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bourges (Cher) ",
+    "COMMUNE":"Bourges (Cher) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16467,7 +16363,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bressolles (Allier) ",
+    "COMMUNE":"Bressolles (Allier) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16493,7 +16389,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Breteuil (Eure) ",
+    "COMMUNE":"Breteuil (Eure) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16519,7 +16415,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bruxelles (Belgique) ",
+    "COMMUNE":"Bruxelles (Belgique) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16545,7 +16441,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bry-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Bry-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16571,7 +16467,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Caen (Calvados) ",
+    "COMMUNE":"Caen (Calvados) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16597,7 +16493,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Cambrai (Nord) ",
+    "COMMUNE":"Cambrai (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16623,7 +16519,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Champigny (Marne) ",
+    "COMMUNE":"Champigny (Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16649,7 +16545,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Champigny-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Champigny-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16675,7 +16571,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Charenton-le-Pont (Val-de-Marne) ",
+    "COMMUNE":"Charenton-le-Pont (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16701,7 +16597,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chartres (Eure-et-Loir) ",
+    "COMMUNE":"Chartres (Eure-et-Loir) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16727,7 +16623,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chatou (Yvelines) ",
+    "COMMUNE":"Chatou (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16753,7 +16649,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chaunay (Vienne) ",
+    "COMMUNE":"Chaunay (Vienne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16779,7 +16675,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chauny (Aisne) ",
+    "COMMUNE":"Chauny (Aisne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16805,7 +16701,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chaville (Hauts-de-Seine) ",
+    "COMMUNE":"Chaville (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16831,7 +16727,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Cherbourg-Octeville (Manche) ",
+    "COMMUNE":"Cherbourg-Octeville (Manche) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16853,11 +16749,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.299494,48.241737 ]
+       "coordinates":  [ -71,-33 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chili ",
+    "COMMUNE":"Chili ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16879,11 +16775,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.33743,44.507672 ]
+       "coordinates":  [ 103,35 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chine ",
+    "COMMUNE":"Chine ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16909,7 +16805,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Choisy-le-Roi (Val-de-Marne) ",
+    "COMMUNE":"Choisy-le-Roi (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16935,7 +16831,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Clamart (Hauts-de-Seine) ",
+    "COMMUNE":"Clamart (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16961,7 +16857,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Clichy (Hauts-de-Seine) ",
+    "COMMUNE":"Clichy (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -16987,7 +16883,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Cloyes-sur-le-Loir (Eure-et-Loir) ",
+    "COMMUNE":"Cloyes-sur-le-Loir (Eure-et-Loir) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17013,7 +16909,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Cologne (Allemagne) ",
+    "COMMUNE":"Cologne (Allemagne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17039,7 +16935,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Colombes (Hauts-de-Seine) ",
+    "COMMUNE":"Colombes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17065,7 +16961,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Cormeilles-en-Parisis (Val-d'Oise) ",
+    "COMMUNE":"Cormeilles-en-Parisis (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17091,7 +16987,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Courbevoie (Hauts-de-Seine) ",
+    "COMMUNE":"Courbevoie (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17117,7 +17013,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Dieppe (Seine-Maritime) ",
+    "COMMUNE":"Dieppe (Seine-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17143,7 +17039,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Dinard (Ille-et-Vilaine) ",
+    "COMMUNE":"Dinard (Ille-et-Vilaine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17169,7 +17065,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Douai (Nord) ",
+    "COMMUNE":"Douai (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17191,11 +17087,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.708342,44.794743 ]
+       "coordinates":  [ -5,57 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Ecosse (Royaume-Uni) ",
+    "COMMUNE":"Ecosse (Royaume-Uni) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17221,7 +17117,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Elbeuf (Seine-Maritime) ",
+    "COMMUNE":"Elbeuf (Seine-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17247,7 +17143,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Epernay (Marne) ",
+    "COMMUNE":"Epernay (Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17273,7 +17169,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Evaux-les-Bains (Creuse) ",
+    "COMMUNE":"Evaux-les-Bains (Creuse) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17295,11 +17191,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.133451,43.924797 ]
+       "coordinates":  [ 27,65 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Finlande ",
+    "COMMUNE":"Finlande ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17325,7 +17221,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontainebleau (Seine-et-Marne) ",
+    "COMMUNE":"Fontainebleau (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17351,7 +17247,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontenay-sous-Bois (Val-de-Marne) ",
+    "COMMUNE":"Fontenay-sous-Bois (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17377,7 +17273,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Gagny (Seine-Saint-Denis) ",
+    "COMMUNE":"Gagny (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17403,7 +17299,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Gap (Hautes-Alpes) ",
+    "COMMUNE":"Gap (Hautes-Alpes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17429,7 +17325,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Gennevilliers (Hauts-de-Seine) ",
+    "COMMUNE":"Gennevilliers (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17455,7 +17351,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Gentilly (Val-de-Marne) ",
+    "COMMUNE":"Gentilly (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17481,7 +17377,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Gournay-sur-Aronde (Oise) ",
+    "COMMUNE":"Gournay-sur-Aronde (Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17507,7 +17403,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Grigny (Essonne) ",
+    "COMMUNE":"Grigny (Essonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17533,7 +17429,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Guerny (Eure) ",
+    "COMMUNE":"Guerny (Eure) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17559,7 +17455,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Hautmont (Nord) ",
+    "COMMUNE":"Hautmont (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17585,7 +17481,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Hazebrouck (Nord) ",
+    "COMMUNE":"Hazebrouck (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17611,7 +17507,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Herblay (Val-d'Oise) ",
+    "COMMUNE":"Herblay (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17637,7 +17533,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Hermaville (Pas-de-Calais) ",
+    "COMMUNE":"Hermaville (Pas-de-Calais) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17659,11 +17555,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.778579,43.945901 ]
+       "coordinates":  [ 43,33 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Irak ",
+    "COMMUNE":"Irak ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17685,11 +17581,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0.392121,48.294335 ]
+       "coordinates":  [ 53,32 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Iran ",
+    "COMMUNE":"Iran ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17711,11 +17607,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 3.006392,44.89155 ]
+       "coordinates":  [ -8,53 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Irlande ",
+    "COMMUNE":"Irlande ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17741,7 +17637,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Issy-les-Moulineaux (Hauts-de-Seine) ",
+    "COMMUNE":"Issy-les-Moulineaux (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17767,7 +17663,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Joinville-le-Pont (Val-de-Marne) ",
+    "COMMUNE":"Joinville-le-Pont (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17793,7 +17689,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Laas (Gers) ",
+    "COMMUNE":"Laas (Gers) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17819,7 +17715,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" La Garenne-Colombes (Hauts-de-Seine) ",
+    "COMMUNE":"La Garenne-Colombes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17845,7 +17741,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lagny-sur-Marne (Seine-et-Marne) ",
+    "COMMUNE":"Lagny-sur-Marne (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17871,7 +17767,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Laguiole (Aveyron) ",
+    "COMMUNE":"Laguiole (Aveyron) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17897,7 +17793,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lalande-de-Pomerol (Gironde) ",
+    "COMMUNE":"Lalande-de-Pomerol (Gironde) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17923,7 +17819,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lambersart (Nord) ",
+    "COMMUNE":"Lambersart (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17949,7 +17845,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lamotte-Beuvron (Loir-et-Cher) ",
+    "COMMUNE":"Lamotte-Beuvron (Loir-et-Cher) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -17975,7 +17871,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" La Rochelle (Charente-Maritime) ",
+    "COMMUNE":"La Rochelle (Charente-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18001,7 +17897,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Bourget (Seine-Saint-Denis) ",
+    "COMMUNE":"Le Bourget (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18027,7 +17923,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Caire (Egypte) ",
+    "COMMUNE":"Le Caire (Egypte) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18053,7 +17949,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Crotoy (Somme) ",
+    "COMMUNE":"Le Crotoy (Somme) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18079,7 +17975,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Havre (Seine-Maritime) ",
+    "COMMUNE":"Le Havre (Seine-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18105,7 +18001,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Mans (Sarthe) ",
+    "COMMUNE":"Le Mans (Sarthe) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18131,7 +18027,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Plessis-Robinson (Hauts-de-Seine) ",
+    "COMMUNE":"Le Plessis-Robinson (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18157,7 +18053,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Raincy (Seine-Saint-Denis) ",
+    "COMMUNE":"Le Raincy (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18183,7 +18079,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Levallois-Perret (Hauts-de-Seine) ",
+    "COMMUNE":"Levallois-Perret (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18209,7 +18105,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Limours (Essonne) ",
+    "COMMUNE":"Limours (Essonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18231,11 +18127,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.166508,46.925686 ]
+       "coordinates":  [ -9.1666666666667,38.716666666667 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lisbonne (Portugal) ",
+    "COMMUNE":"Lisbonne (Portugal) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18257,11 +18153,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.708342,44.794743 ]
+       "coordinates":  [ -0.1275,51.507222222222 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Londres (Royaume-Uni) ",
+    "COMMUNE":"Londres (Royaume-Uni) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18287,7 +18183,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lorient (Morbihan) ",
+    "COMMUNE":"Lorient (Morbihan) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18309,11 +18205,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 1.600059,50.480065 ]
+       "coordinates":  [ 10.516666666667,43.85 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lucques (Italie) ",
+    "COMMUNE":"Lucques (Italie) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18339,7 +18235,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Luzarches (Val-d'Oise) ",
+    "COMMUNE":"Luzarches (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18361,11 +18257,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.240885,47.90309 ]
+       "coordinates":  [ 47,-20 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Madagascar ",
+    "COMMUNE":"Madagascar ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18391,7 +18287,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Magnac-sur-Touvre (Charente) ",
+    "COMMUNE":"Magnac-sur-Touvre (Charente) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18417,7 +18313,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Maisons-Laffitte (Yvelines) ",
+    "COMMUNE":"Maisons-Laffitte (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18439,11 +18335,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 0.584988,43.645833 ]
+       "coordinates":  [ -4.4166666666667,36.716666666667 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Malaga (Espagne) ",
+    "COMMUNE":"Malaga (Espagne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18469,7 +18365,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Malakoff (Hauts-de-Seine) ",
+    "COMMUNE":"Malakoff (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18491,11 +18387,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 8.710669,41.910173 ]
+       "coordinates":  [ 14.5,35.88 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Malte ",
+    "COMMUNE":"Malte ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18521,7 +18417,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Marcilly-sur-Eure (Eure) ",
+    "COMMUNE":"Marcilly-sur-Eure (Eure) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18547,7 +18443,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Mareuil-sur-Cher (Loir-et-Cher) ",
+    "COMMUNE":"Mareuil-sur-Cher (Loir-et-Cher) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18573,7 +18469,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Marly-la-Ville (Val-d'Oise) ",
+    "COMMUNE":"Marly-la-Ville (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18599,7 +18495,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Marly-le-Roi (Yvelines) ",
+    "COMMUNE":"Marly-le-Roi (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18625,7 +18521,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meaux (Seine-et-Marne) ",
+    "COMMUNE":"Meaux (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18651,7 +18547,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Melun (Seine-et-Marne) ",
+    "COMMUNE":"Melun (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18677,7 +18573,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Menton (Alpes-Maritimes) ",
+    "COMMUNE":"Menton (Alpes-Maritimes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18703,7 +18599,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Metz (Moselle) ",
+    "COMMUNE":"Metz (Moselle) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18729,7 +18625,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meudon (Hauts-de-Seine) ",
+    "COMMUNE":"Meudon (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18755,7 +18651,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meulan (Yvelines) ",
+    "COMMUNE":"Meulan (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18781,7 +18677,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Monpazier (Dordogne) ",
+    "COMMUNE":"Monpazier (Dordogne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18807,7 +18703,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Monsec (Dordogne) ",
+    "COMMUNE":"Monsec (Dordogne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18833,7 +18729,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montereau-Fault-Yonne (Seine-et-Marne) ",
+    "COMMUNE":"Montereau-Fault-Yonne (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18859,7 +18755,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montereau (Loiret) ",
+    "COMMUNE":"Montereau (Loiret) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18885,7 +18781,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montfort-l'Amaury (Yvelines) ",
+    "COMMUNE":"Montfort-l'Amaury (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18911,7 +18807,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Monthois (Ardennes) ",
+    "COMMUNE":"Monthois (Ardennes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18937,7 +18833,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montmachoux (Seine-et-Marne) ",
+    "COMMUNE":"Montmachoux (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18963,7 +18859,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Montrouge (Hauts-de-Seine) ",
+    "COMMUNE":"Montrouge (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -18985,11 +18881,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.611809,47.239049 ]
+       "coordinates":  [ 35,-19 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Mozambique ",
+    "COMMUNE":"Mozambique ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19015,7 +18911,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nancy (Meurthe-et-Moselle) ",
+    "COMMUNE":"Nancy (Meurthe-et-Moselle) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19041,7 +18937,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nanterre (Hauts-de-Seine) ",
+    "COMMUNE":"Nanterre (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19067,7 +18963,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nantes (Loire-Atlantique) ",
+    "COMMUNE":"Nantes (Loire-Atlantique) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19093,7 +18989,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-Plaisance (Seine-Saint-Denis) ",
+    "COMMUNE":"Neuilly-Plaisance (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19119,7 +19015,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-sur-Seine (Hauts-de-Seine) ",
+    "COMMUNE":"Neuilly-sur-Seine (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19145,7 +19041,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nice (Alpes-Maritimes) ",
+    "COMMUNE":"Nice (Alpes-Maritimes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19171,7 +19067,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nogent-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Nogent-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19197,7 +19093,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nogent-sur-Seine (Aube) ",
+    "COMMUNE":"Nogent-sur-Seine (Aube) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19223,7 +19119,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Noisy-le-Sec (Seine-Saint-Denis) ",
+    "COMMUNE":"Noisy-le-Sec (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19249,7 +19145,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Ormesson (Seine-et-Marne) ",
+    "COMMUNE":"Ormesson (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19271,37 +19167,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.211833,44.323834 ]
+       "coordinates":  [ 4.88,52.37 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Pays ",
-    "FIELD5":"",
-    "FIELD6":"",
-    "FIELD7":"",
-    "FIELD8":"",
-    "FIELD9":"",
-    "FIELD10":"",
-    "FIELD11":"",
-    "FIELD12":"",
-    "FIELD13":"",
-    "FIELD14":"",
-    "FIELD15":"",
-    "FIELD16":"",
-    "FIELD17":"",
-    "FIELD18":"",
-    "FIELD19":null
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 1.331334,44.044789 ]
-    },
-    "properties": {
-    "RUE":"",
-    "COMMUNE":" Pays-Bas ",
+    "COMMUNE":"Pays-Bas ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19327,7 +19197,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Poissy (Yvelines) ",
+    "COMMUNE":"Poissy (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19353,7 +19223,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Pontarlier (Doubs) ",
+    "COMMUNE":"Pontarlier (Doubs) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19379,7 +19249,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Pontoise (Val-d'Oise) ",
+    "COMMUNE":"Pontoise (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19405,7 +19275,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Port-Louis (Guadeloupe) ",
+    "COMMUNE":"Port-Louis (Guadeloupe) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19431,7 +19301,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Provins (Seine-et-Marne) ",
+    "COMMUNE":"Provins (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19457,7 +19327,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Renaison (Loire) ",
+    "COMMUNE":"Renaison (Loire) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19483,7 +19353,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rocourt-Saint-Martin (Aisne) ",
+    "COMMUNE":"Rocourt-Saint-Martin (Aisne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19505,11 +19375,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 3.198528,45.734348 ]
+       "coordinates":  [ 12.482777777778,41.893055555556 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rome (Italie) ",
+    "COMMUNE":"Rome (Italie) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19535,7 +19405,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rosel (Calvados) ",
+    "COMMUNE":"Rosel (Calvados) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19561,7 +19431,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Roubaix (Nord) ",
+    "COMMUNE":"Roubaix (Nord) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19583,11 +19453,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 4.765444,44.800763 ]
+       "coordinates":  [ 25,46 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Roumanie ",
+    "COMMUNE":"Roumanie ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19613,7 +19483,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rueil-Malmaison (Hauts-de-Seine) ",
+    "COMMUNE":"Rueil-Malmaison (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19639,7 +19509,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Aubin-sur-Gaillon (Eure) ",
+    "COMMUNE":"Saint-Aubin-sur-Gaillon (Eure) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19665,7 +19535,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Denis-en-Val (Loiret) ",
+    "COMMUNE":"Saint-Denis-en-Val (Loiret) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19691,7 +19561,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Denis (Seine-Saint-Denis) ",
+    "COMMUNE":"Saint-Denis (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19717,7 +19587,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Germain-en-Laye (Yvelines) ",
+    "COMMUNE":"Saint-Germain-en-Laye (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19743,7 +19613,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Lubin-en-Vergonnois (Loir-et-Cher) ",
+    "COMMUNE":"Saint-Lubin-en-Vergonnois (Loir-et-Cher) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19769,7 +19639,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Martin-Lacaussade (Gironde) ",
+    "COMMUNE":"Saint-Martin-Lacaussade (Gironde) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19795,7 +19665,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Nazaire (Gard) ",
+    "COMMUNE":"Saint-Nazaire (Gard) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19817,11 +19687,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.310948,48.857527 ]
+       "coordinates":  [ -70.666666666667,-33.45 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Santiago (Chili) ",
+    "COMMUNE":"Santiago (Chili) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19847,7 +19717,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Senonches (Eure-et-Loir) ",
+    "COMMUNE":"Senonches (Eure-et-Loir) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19873,7 +19743,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Sens (Yonne) ",
+    "COMMUNE":"Sens (Yonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19895,11 +19765,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 103.81983600000001,1.352083 ]
+       "coordinates":  [ 103.8,1.3 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Singapour ",
+    "COMMUNE":"Singapour ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19925,7 +19795,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Soissons (Aisne) ",
+    "COMMUNE":"Soissons (Aisne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19947,11 +19817,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -1.497229,47.252754 ]
+       "coordinates":  [ 9.1775,48.776111111111 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Stuttgart (Allemagne) ",
+    "COMMUNE":"Stuttgart (Allemagne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -19977,7 +19847,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Suisse ",
+    "COMMUNE":"Suisse ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20003,7 +19873,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Suresnes (Hauts-de-Seine) ",
+    "COMMUNE":"Suresnes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20029,7 +19899,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Tarnos (Landes) ",
+    "COMMUNE":"Tarnos (Landes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20055,7 +19925,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Toulon (Var) ",
+    "COMMUNE":"Toulon (Var) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20081,7 +19951,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Toulouse (Haute-Garonne) ",
+    "COMMUNE":"Toulouse (Haute-Garonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20107,7 +19977,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Tournai (Belgique) ",
+    "COMMUNE":"Tournai (Belgique) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20133,7 +20003,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Tours (Indre-et-Loire) ",
+    "COMMUNE":"Tours (Indre-et-Loire) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20155,11 +20025,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.620525,47.67932 ]
+       "coordinates":  [ 36,39 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Turquie ",
+    "COMMUNE":"Turquie ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20181,11 +20051,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 1.293244,45.908914 ]
+       "coordinates":  [ -71.616361111111,-33.045944444444 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Valparaiso (Chili) ",
+    "COMMUNE":"Valparaiso (Chili) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20211,7 +20081,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vendoeuvres (Indre) ",
+    "COMMUNE":"Vendoeuvres (Indre) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20237,7 +20107,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Versailles (Yvelines) ",
+    "COMMUNE":"Versailles (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20263,7 +20133,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vez (Oise) ",
+    "COMMUNE":"Vez (Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20289,7 +20159,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vichy (Allier) ",
+    "COMMUNE":"Vichy (Allier) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20315,7 +20185,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villeneuve-la-Guyard (Yonne) ",
+    "COMMUNE":"Villeneuve-la-Guyard (Yonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20341,7 +20211,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villennes-sur-Seine (Yvelines) ",
+    "COMMUNE":"Villennes-sur-Seine (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20367,7 +20237,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villiers-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Villiers-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20393,7 +20263,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vincennes (Val-de-Marne) ",
+    "COMMUNE":"Vincennes (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20419,7 +20289,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vitry-sur-Seine (Val-de-Marne) ",
+    "COMMUNE":"Vitry-sur-Seine (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20445,7 +20315,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Angers (Maine-et-Loire) ",
+    "COMMUNE":"Angers (Maine-et-Loire) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20471,7 +20341,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Antony (Hauts-de-Seine) ",
+    "COMMUNE":"Antony (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20493,11 +20363,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 2.095881,49.440127 ]
+       "coordinates":  [ -64,-34 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Argentine ",
+    "COMMUNE":"Argentine ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20523,7 +20393,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Aubervilliers (Seine-Saint-Denis) ",
+    "COMMUNE":"Aubervilliers (Seine-Saint-Denis) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20549,7 +20419,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Aubigny-en-Artois (Pas-de-Calais) ",
+    "COMMUNE":"Aubigny-en-Artois (Pas-de-Calais) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20575,7 +20445,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Authon-du-Perche (Eure-et-Loir) ",
+    "COMMUNE":"Authon-du-Perche (Eure-et-Loir) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20601,7 +20471,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Baignes-Sainte-Radegonde (Charente) ",
+    "COMMUNE":"Baignes-Sainte-Radegonde (Charente) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20627,7 +20497,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bois-Colombes (Hauts-de-Seine) ",
+    "COMMUNE":"Bois-Colombes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20653,7 +20523,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Boulogne-Billancourt (Hauts-de-Seine) ",
+    "COMMUNE":"Boulogne-Billancourt (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20679,7 +20549,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bressolles (Allier) ",
+    "COMMUNE":"Bressolles (Allier) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20705,7 +20575,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Bretteville-l'Orgueilleuse (Calvados) ",
+    "COMMUNE":"Bretteville-l'Orgueilleuse (Calvados) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20731,7 +20601,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Brunoy (Essonne) ",
+    "COMMUNE":"Brunoy (Essonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20757,7 +20627,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chavenat (Charente) ",
+    "COMMUNE":"Chavenat (Charente) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20783,7 +20653,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chevilly (Loiret) ",
+    "COMMUNE":"Chevilly (Loiret) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20805,11 +20675,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 7.299494,48.241737 ]
+       "coordinates":  [ -71,-33 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Chili ",
+    "COMMUNE":"Chili ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20835,7 +20705,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Dieppe (Seine-Maritime) ",
+    "COMMUNE":"Dieppe (Seine-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20861,7 +20731,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Elbeuf (Seine-Maritime) ",
+    "COMMUNE":"Elbeuf (Seine-Maritime) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20887,7 +20757,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontainebleau (Seine-et-Marne) ",
+    "COMMUNE":"Fontainebleau (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20913,7 +20783,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Fontenay-aux-Roses (Hauts-de-Seine) ",
+    "COMMUNE":"Fontenay-aux-Roses (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20939,7 +20809,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Franconville (Val-d'Oise) ",
+    "COMMUNE":"Franconville (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20965,7 +20835,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Hirtzbach (Haut-Rhin) ",
+    "COMMUNE":"Hirtzbach (Haut-Rhin) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -20991,7 +20861,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Joigny (Yonne) ",
+    "COMMUNE":"Joigny (Yonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21017,7 +20887,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" La Garenne-Colombes (Hauts-de-Seine) ",
+    "COMMUNE":"La Garenne-Colombes (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21043,7 +20913,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Lagny-sur-Marne (Seine-et-Marne) ",
+    "COMMUNE":"Lagny-sur-Marne (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21069,7 +20939,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Libourne (Gironde) ",
+    "COMMUNE":"Libourne (Gironde) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21091,11 +20961,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -0.708342,44.794743 ]
+       "coordinates":  [ -0.1275,51.507222222222 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Londres (Royaume-Uni) ",
+    "COMMUNE":"Londres (Royaume-Uni) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21121,7 +20991,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Meaux (Seine-et-Marne) ",
+    "COMMUNE":"Meaux (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21147,7 +21017,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Melun (Seine-et-Marne) ",
+    "COMMUNE":"Melun (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21173,7 +21043,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Mettray (Indre-et-Loire) ",
+    "COMMUNE":"Mettray (Indre-et-Loire) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21199,7 +21069,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Moulins (Allier) ",
+    "COMMUNE":"Moulins (Allier) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21225,7 +21095,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nanterre (Hauts-de-Seine) ",
+    "COMMUNE":"Nanterre (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21251,7 +21121,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Neuilly-sur-Seine (Hauts-de-Seine) ",
+    "COMMUNE":"Neuilly-sur-Seine (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21277,7 +21147,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Nogent-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Nogent-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21303,7 +21173,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Poissy (Yvelines) ",
+    "COMMUNE":"Poissy (Yvelines) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21325,11 +21195,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 5.383141,43.288557 ]
+       "coordinates":  [ 14.725625799999989,36.92688389999999 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Raguse (Italie) ",
+    "COMMUNE":"Raguse (Italie) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21355,7 +21225,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Ris-Orangis (Essonne) ",
+    "COMMUNE":"Ris-Orangis (Essonne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21381,7 +21251,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rubelles (Seine-et-Marne) ",
+    "COMMUNE":"Rubelles (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21407,7 +21277,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Rueil-Malmaison (Hauts-de-Seine) ",
+    "COMMUNE":"Rueil-Malmaison (Hauts-de-Seine) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21429,11 +21299,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 6.460383,43.274391 ]
+       "coordinates":  [ 100,62 ]
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Russie ",
+    "COMMUNE":"Russie ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21459,7 +21329,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Cyprien (Dordogne) ",
+    "COMMUNE":"Saint-Cyprien (Dordogne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21485,7 +21355,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Saint-Quentin (Aisne) ",
+    "COMMUNE":"Saint-Quentin (Aisne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21511,7 +21381,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Sannois (Val-d'Oise) ",
+    "COMMUNE":"Sannois (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21537,7 +21407,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Taverny (Val-d'Oise) ",
+    "COMMUNE":"Taverny (Val-d'Oise) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21563,7 +21433,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Villiers-sur-Marne (Val-de-Marne) ",
+    "COMMUNE":"Villiers-sur-Marne (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21589,7 +21459,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Vincennes (Val-de-Marne) ",
+    "COMMUNE":"Vincennes (Val-de-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21615,7 +21485,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Voves (Eure-et-Loir) ",
+    "COMMUNE":"Voves (Eure-et-Loir) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21629,7 +21499,7 @@
     "FIELD15":"",
     "FIELD16":"",
     "FIELD17":"",
-    "FIELD18":" Centre-Val de Loire",
+    "FIELD18":"Centre-Val de Loire",
     "FIELD19":28422
     }
   },
@@ -21641,7 +21511,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Crisenoy (Seine-et-Marne) ",
+    "COMMUNE":"Crisenoy (Seine-et-Marne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21667,7 +21537,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Le Mans (Sarthe) ",
+    "COMMUNE":"Le Mans (Sarthe) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21693,7 +21563,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Mont-de-Marsan (Landes) ",
+    "COMMUNE":"Mont-de-Marsan (Landes) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21719,7 +21589,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Moulins (Allier) ",
+    "COMMUNE":"Moulins (Allier) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
@@ -21745,7 +21615,7 @@
     },
     "properties": {
     "RUE":"",
-    "COMMUNE":" Domme (Dordogne) ",
+    "COMMUNE":"Domme (Dordogne) ",
     "FIELD5":"",
     "FIELD6":"",
     "FIELD7":"",
