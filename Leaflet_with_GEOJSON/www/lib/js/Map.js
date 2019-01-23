@@ -1,23 +1,51 @@
 function Map() {
-    var self = this;
+    let self = this;
 
-    self.init = function(host) {
-        // Créations du soccle Leaflet
-        var map = L.map(host).setView([48.856614, 2.3522219000000177], 13);
-        var osmLayer = L.tileLayer('https://www.openstreetmap.org', {
-            attribution: '© <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
-            maxZoom: 19
-        });
-        var tileStreets = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            maxZoom: 18,
+    self._data = {
+        target: null
+    };
+    self._map = null;
+    self._HTMLElement = {
+        map: null
+    };
+
+    self.make = function() {
+        if (!self._data.target) if (self.error()) return false;
+
+        self._map = L.map(self._data.target);
+        self._map.setView([48.856614, 2.3522219000000177], 13);
+        self.layer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
             id: 'mapbox.streets',
-            accessToken: 'pk.eyJ1IjoiY2FpbGxpYm90IiwiYSI6ImNqcGQ2NXc0ZDFkYmIzcXNiZHFwZjhjNGIifQ.paCPst_H1pioOQzUccyVxQ'
+            accessToken: 'pk.eyJ1IjoiY2FpbGxpYm90IiwiYSI6ImNqcGQ2NXc0ZDFkYmIzcXNiZHFwZjhjNGIifQ.paCPst_H1pioOQzUccyVxQ',
+            // maxZoom: 18,
+            // attribution: 'Attrib'
         });
-        var baseLayers = {
-            "OpenStreetMap": osmLayer
-        };
 
+        return self;
+    };
+
+    self.getGEOJson = function () {
+
+    };
+
+    self.layer = function(url, options) {
+        let tileLayer = L.tileLayer(url, options);
+
+        tileLayer.addTo(self._map);
+    };
+
+    self.target = function(target) {
+        self._data.target = target;
+
+        return self;
+    };
+
+    self.error = function(message = 'Map encountered an error.') {
+        console.error("[ ERROR ] ::", message);
+        return true;
+    };
+
+    // self.init = function(host) {
         // Création des arrondissements (data geojson)
         // var arrondissement = $.getJSON("../../arrondissement.geojson", function(dataArrondissement){
         //     L.geoJson(
@@ -78,13 +106,9 @@ function Map() {
         //     }).addTo(map);
         // });
 
-        // Configuration
-        map.addLayer(osmLayer);
-        tileStreets.addTo(map);
-
         // Production
-        L.control.layers(baseLayers).addTo(map);
-    };
+        // L.control.layers(baseLayers).addTo(map);
+    // };
 
     return self;
 }
