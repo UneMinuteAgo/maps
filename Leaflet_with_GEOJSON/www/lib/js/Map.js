@@ -45,13 +45,13 @@ function Map() {
                 try {
                     d = JSON.parse(d);
 
-                    // Placement du notaire
-                    options.pointToLayer = self.marker().notary();
-                    L.geoJSON(d.notary, options).addTo(this);
-
                     // Placement des clients
                     options.pointToLayer = self.marker().customer();
                     L.geoJSON(d.customers, options).addTo(this);
+
+                    // Placement du notaire
+                    options.pointToLayer = self.marker().notary();
+                    L.geoJSON(d.notary, options).addTo(this);
                 } catch (e) {
                     console.error("Map.loadNotary() failed");
                 }
