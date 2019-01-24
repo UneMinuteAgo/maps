@@ -2,7 +2,18 @@ function Map() {
     let self = this;
 
     self._data = {
-        target: null
+        target: null,
+        libPath: null,
+        icon: {
+            notary: {
+                icon: "http://ichap.cl/wp-content/uploads/2014/04/map-marker-icon.png",
+                size: [64, 64]
+            },
+            customer: {
+                icon: 'http://ichap.cl/wp-content/uploads/2014/04/map-marker-icon.png',
+                size: [32, 32]
+            }
+        }
     };
     self._map = null;
     self._HTMLElement = {
@@ -24,21 +35,28 @@ function Map() {
         return self;
     };
 
-    self.getGEOJson = function (target, options = {}, marker) {
-        options = {
-            pointToLayer: marker
-        };
-
-        new xhrQuery().target(target).callbacks(
-            function(options, d) {
-                L.geoJSON(JSON.parse(d), options).addTo(this);
-            }.bind(self._map, options)
-        ).send();
+    self.libPath = function(path) {
+        self._data.libPath = path;
     };
 
     self.loadNotary = function(target, options = {}) {
-        self.getGEOJson(target, options, self.marker().notary());
-        self.getGEOJson(target, options, self.marker().customer());
+        new xhrQuery().target(target).callbacks(
+            function(options, d) {
+                try {
+                    d = JSON.parse(d);
+
+                    // Placement du notaire
+                    options.pointToLayer = self.marker().notary();
+                    L.geoJSON(d.notary, options).addTo(this);
+
+                    // Placement des clients
+                    options.pointToLayer = self.marker().customer();
+                    L.geoJSON(d.customers, options).addTo(this);
+                } catch (e) {
+                    console.error("Map.loadNotary() failed");
+                }
+            }.bind(self._map, options)
+        ).send();
     };
 
     self.layer = function(url, options) {
@@ -52,8 +70,8 @@ function Map() {
             notary: function() {
                 return self.marker().maker.bind(this, {
                     icon: L.icon({
-                        iconUrl: 'style/icon-red.png',
-                        iconSize: [64,64]
+                        iconUrl: self._data.icon.notary.icon,
+                        iconSize: self._data.icon.notary.size
                     })
                 });
             },
@@ -61,10 +79,28 @@ function Map() {
             customer: function() {
                 return self.marker().maker.bind(null, {
                     icon: L.icon({
-                        iconUrl: 'style/icon-blue.png',
-                        iconSize: [48, 48]
+                        iconUrl: self._data.icon.customer.icon,
+                        iconSize: self._data.icon.customer.size
                     })
                 });
+            },
+
+            icon: function(icon, size) {
+                return {
+                    notary: function() {
+                        self._data.icon.notary.icon = icon;
+                        self._data.icon.notary.size = size;
+
+                        return self;
+                    },
+
+                    customer: function() {
+                        self._data.icon.customer.icon = icon;
+                        self._data.icon.customer.size = size;
+
+                        return self;
+                    }
+                }
             },
 
             maker: function(options, feature, latlng) {
