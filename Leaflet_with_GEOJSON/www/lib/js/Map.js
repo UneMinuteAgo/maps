@@ -24,14 +24,53 @@ function Map() {
         return self;
     };
 
-    self.getGEOJson = function () {
+    self.getGEOJson = function (target, options = {}, marker) {
+        options = {
+            pointToLayer: marker
+        };
 
+        new xhrQuery().target(target).callbacks(
+            function(options, d) {
+                L.geoJSON(JSON.parse(d), options).addTo(this);
+            }.bind(self._map, options)
+        ).send();
+    };
+
+    self.loadNotary = function(target, options = {}) {
+        self.getGEOJson(target, options, self.marker().notary());
+        self.getGEOJson(target, options, self.marker().customer());
     };
 
     self.layer = function(url, options) {
         let tileLayer = L.tileLayer(url, options);
 
         tileLayer.addTo(self._map);
+    };
+
+    self.marker = function() {
+        return {
+            notary: function() {
+                return self.marker().maker.bind(this, {
+                    icon: L.icon({
+                        iconUrl: 'style/icon-red.png',
+                        iconSize: [64,64]
+                    })
+                });
+            },
+
+            customer: function() {
+                return self.marker().maker.bind(null, {
+                    icon: L.icon({
+                        iconUrl: 'style/icon-blue.png',
+                        iconSize: [48, 48]
+                    })
+                });
+            },
+
+            maker: function(options, feature, latlng) {
+                return L.marker(latlng, options);
+            }
+        }
     };
 
     self.target = function(target) {
@@ -44,71 +83,6 @@ function Map() {
         console.error("[ ERROR ] ::", message);
         return true;
     };
-
-    // self.init = function(host) {
-        // Création des arrondissements (data geojson)
-        // var arrondissement = $.getJSON("../../arrondissement.geojson", function(dataArrondissement){
-        //     L.geoJson(
-        //         dataArrondissement,
-        //         {
-        //             style: function(feature) {
-        //                 // paramétrage de la symbologie de la couche "arrondissement"
-        //                 return { color: "#046380", weight: 1, fillColor: '#4BB5C1', fillOpacity: .1 };
-        //             },
-        //             onEachFeature: function( feature, layer ){
-        //                 // paramétrage de la popup de la couche "arrondissement"
-        //                 layer.bindPopup( "<b><u>Description de l'arrondissement</u></b><br><b> Arrondissement n° </b>" + feature.properties.c_ar )
-        //             }
-        //         }
-        //     ).addTo(map);
-        // });
-
-        // Création des notaires (data geojson)
-        // var Liste_notaires= $.getJSON("../../Liste_notaires.geojson",function(dataListe_notaires) {
-        //     var iconeListe_notaires = L.icon({
-        //         iconUrl: 'style/icon-red.png',
-        //         iconSize: [30, 35]
-        //     });
-        //
-        //     // fonction pointToLayer qui ajoute la couche "Liste_notaires" à la carte, selon la symbologie "iconeListeNotaires", et paramètre la popup
-        //     L.geoJson(dataListe_notaires,{
-        //         pointToLayer: function(feature,latlng){
-        //             var marker = L.marker(latlng,{icon: iconeListe_notaires});
-        //             marker.bindPopup('<b><u>Références du notaire</u></b><br>'
-        //                 + "<b>Etude : </b>" + feature.properties.ETUDE+ '<br>'
-        //                 + "<b>Notaire : </b>" + feature.properties.NOTAIRE+ '<br>'
-        //                 + "<b>Rue : </b>" + feature.properties.RUE+ '<br>'
-        //                 + "<b>Commune : </b>" + feature.properties.COMMUNE+ '<br>'
-        //                 + "<b>Dates extrêmes : </b>" + feature.properties.DATES_EXTREMES+ '<br>'
-        //             );
-        //             return marker;
-        //         }
-        //     }).addTo(map);
-        // });
-
-        // Création des Rues (data geojson)
-        // var RuesClients_MillonDailly= $.getJSON("../../RuesClients_MillonDailly.geojson", function(dataRuesClients_MillonDailly){
-        //     var iconeRuesClients_MillonDailly = L.icon({
-        //         iconUrl: 'style/icon-orange.png',
-        //         iconSize: [19, 21]
-        //     });
-        //
-        //     // fonction pointToLayer qui ajoute la couche "Rues_clients_Millon_Dailly" à la carte, selon la symbologie "iconeRues_clients_Millon_Dailly", et paramètre la popup
-        //     L.geoJson(dataRuesClients_MillonDailly,{
-        //         pointToLayer: function(feature,latlng){
-        //             var marker = L.marker(latlng,{icon: iconeRuesClients_MillonDailly});
-        //             marker.bindPopup('<b><u>Localisation des clients de Me Millon-Dailly</u></b><br>'
-        //                 + "<b>Rue : </b>" + feature.properties.RUE+ '<br>'
-        //                 + "<b>Commune : </b>" + feature.properties.COMMUNE+ '<br>'
-        //             );
-        //             return marker;
-        //         }
-        //     }).addTo(map);
-        // });
-
-        // Production
-        // L.control.layers(baseLayers).addTo(map);
-    // };
 
     return self;
 }

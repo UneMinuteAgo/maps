@@ -1,1 +1,3 @@
 .idea/*
+Leaflet_with_GEOJSON/www/lib/vendor/*
+!Leaflet_with_GEOJSON/www/lib/vendor/.required
